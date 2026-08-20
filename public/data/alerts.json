@@ -8,7 +8,7 @@
     "affectedStations": [],
     "startTime": null,
     "endTime": null,
-    "createdDate": "2026-08-20T00:33:44.000Z",
+    "createdDate": "2026-08-20T08:33:44.000Z",
     "lastUpdatedDate": null,
     "affectedSegments": [],
     "source": "TrainServiceAlerts",
@@ -18,7 +18,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-08-20T06:25:15.135Z"
+    "lastSeenAt": "2026-08-20T07:25:58.124Z"
   },
   {
     "id": "2fface34f4730753e5112c5e0c757ecf646f9b40",
@@ -29,7 +29,7 @@
     "affectedStations": [],
     "startTime": null,
     "endTime": null,
-    "createdDate": "2026-07-09T12:00:20.000Z",
+    "createdDate": "2026-07-09T20:00:20.000Z",
     "lastUpdatedDate": null,
     "affectedSegments": [],
     "source": "TrainServiceAlerts",
@@ -39,7 +39,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-08-20T06:25:15.135Z"
+    "lastSeenAt": "2026-08-20T07:25:58.124Z"
   },
   {
     "id": "5c4644341ce84a1b5daeb3650f1586d9446948cb",
@@ -50,7 +50,7 @@
     "affectedStations": [],
     "startTime": null,
     "endTime": null,
-    "createdDate": "2026-04-18T03:50:27.000Z",
+    "createdDate": "2026-04-18T11:50:27.000Z",
     "lastUpdatedDate": null,
     "affectedSegments": [],
     "source": "TrainServiceAlerts",
@@ -60,6 +60,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-08-20T06:25:15.135Z"
+    "lastSeenAt": "2026-08-20T07:25:58.124Z"
   }
 ]
