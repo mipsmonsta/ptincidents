@@ -121,8 +121,8 @@ export default function Home() {
   const activeList = tab === "train" ? filteredTrain : filteredBus;
 
   const tabs: { key: Tab; label: string; count: number }[] = [
-    { key: "train", label: "Train", count: meta?.trainCount ?? train.length },
-    { key: "bus", label: "Bus", count: meta?.busCount ?? bus.length },
+    { key: "train", label: "LTA Bus and Train", count: meta?.trainCount ?? train.length },
+    { key: "bus", label: "Operators’ feed", count: meta?.busCount ?? bus.length },
   ];
 
   return (
@@ -132,11 +132,12 @@ export default function Home() {
           Transport Service Alerts
         </h1>
         <p className="mt-1 text-sm text-zinc-500">
-          Train: LTA Datamall{" "}
+          LTA Bus and Train: LTA Datamall{" "}
           <code className="rounded bg-black/[.06] px-1.5 py-0.5 font-mono text-xs dark:bg-white/[.08]">
             TrainServiceAlerts
           </code>{" "}
-          · Bus: operator X feeds (SMRT, SBS Transit, Go-Ahead, Tower Transit)
+          · Operators’ feed: X accounts (SMRT, SBS Transit, Go-Ahead, Tower
+          Transit)
           {meta?.retentionDays ? ` · retaining the last ${meta.retentionDays} days` : ""}
         </p>
         <div className="mt-3 flex flex-wrap items-center gap-3 text-sm">
