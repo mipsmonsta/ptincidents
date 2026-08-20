@@ -1,0 +1,51 @@
+name: Sync Train Service Alerts
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "public/data/**"
+      - "scripts/**"
+      - ".github/workflows/sync-alerts.yml"
+      - "package.json"
+      - "package-lock.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-alerts
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Fetch and merge alerts
+        env:
+          LTA_ACCOUNT_KEY: ${{ secrets.LTA_ACCOUNT_KEY }}
+        run: npm run sync
+
+      - name: Commit data if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: sync train service alerts"
+            git push
+          fi

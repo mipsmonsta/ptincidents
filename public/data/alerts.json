@@ -1,0 +1,65 @@
+[
+  {
+    "id": "68130b8ced98ca1bf2ecdce55606e10fd26356d5",
+    "status": 1,
+    "incidentType": null,
+    "message": "20/08/2026 08:33-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-08-20T00:33:44.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "20/08/2026 08:33-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+      "CreatedDate": "2026-08-20 08:33:44"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-20T06:25:15.135Z",
+    "lastSeenAt": "2026-08-20T06:25:15.135Z"
+  },
+  {
+    "id": "2fface34f4730753e5112c5e0c757ecf646f9b40",
+    "status": 1,
+    "incidentType": null,
+    "message": "23:30-DTL-Planned Service Adjustments. From 10 Jul to 5 Sep 2026, Downtown Line services will end at 11.30pm on Friday nights and commence at 8.30am on Saturday mornings. Please use alternative MRT lines and bus services.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-07-09T12:00:20.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "23:30-DTL-Planned Service Adjustments. From 10 Jul to 5 Sep 2026, Downtown Line services will end at 11.30pm on Friday nights and commence at 8.30am on Saturday mornings. Please use alternative MRT lines and bus services.",
+      "CreatedDate": "2026-07-09 20:00:20"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-20T06:25:15.135Z",
+    "lastSeenAt": "2026-08-20T06:25:15.135Z"
+  },
+  {
+    "id": "5c4644341ce84a1b5daeb3650f1586d9446948cb",
+    "status": 1,
+    "incidentType": null,
+    "message": "05:00-SK-Planned Service Adjustment. From 19 Apr to 18 Oct 2026, the Sengkang West LRT Inner Loop (i.e. direction of STC Sengkang towards SW1 Cheng Lim) will be closed. Commuters can continue to use the Sengkang West LRT Outer Loop (i.e. direction of STC Sengkang towards SW8 Renjong), peak-hours shuttle bus services, or regular bus services.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-04-18T03:50:27.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "05:00-SK-Planned Service Adjustment. From 19 Apr to 18 Oct 2026, the Sengkang West LRT Inner Loop (i.e. direction of STC Sengkang towards SW1 Cheng Lim) will be closed. Commuters can continue to use the Sengkang West LRT Outer Loop (i.e. direction of STC Sengkang towards SW8 Renjong), peak-hours shuttle bus services, or regular bus services.",
+      "CreatedDate": "2026-04-18 11:50:27"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-20T06:25:15.135Z",
+    "lastSeenAt": "2026-08-20T06:25:15.135Z"
+  }
+]
