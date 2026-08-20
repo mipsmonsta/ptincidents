@@ -1,26 +1,5 @@
 [
   {
-    "id": "4497cf871be2c5b3a227f10e47b52df7e52df3e3",
-    "status": 1,
-    "incidentType": null,
-    "message": "20/08/2026 16:45-Bus services 161 and 168 are delayed by up to 20 minutes due to accident along SLE (towards CTE) after Mandai Avenue.",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-08-20T16:51:05.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "20/08/2026 16:45-Bus services 161 and 168 are delayed by up to 20 minutes due to accident along SLE (towards CTE) after Mandai Avenue.",
-      "CreatedDate": "2026-08-20 16:51:05"
-    },
-    "current": true,
-    "firstSeenAt": "2026-08-20T09:07:36.458Z",
-    "lastSeenAt": "2026-08-20T09:07:36.458Z"
-  },
-  {
     "id": "68130b8ced98ca1bf2ecdce55606e10fd26356d5",
     "status": 1,
     "incidentType": null,
@@ -29,7 +8,7 @@
     "affectedStations": [],
     "startTime": null,
     "endTime": null,
-    "createdDate": "2026-08-20T08:33:44.000Z",
+    "createdDate": "2026-08-20T00:33:44.000Z",
     "lastUpdatedDate": null,
     "affectedSegments": [],
     "source": "TrainServiceAlerts",
@@ -39,7 +18,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-08-20T09:07:36.458Z"
+    "lastSeenAt": "2026-08-20T09:37:04.692Z"
   },
   {
     "id": "2fface34f4730753e5112c5e0c757ecf646f9b40",
@@ -50,7 +29,7 @@
     "affectedStations": [],
     "startTime": null,
     "endTime": null,
-    "createdDate": "2026-07-09T20:00:20.000Z",
+    "createdDate": "2026-07-09T12:00:20.000Z",
     "lastUpdatedDate": null,
     "affectedSegments": [],
     "source": "TrainServiceAlerts",
@@ -60,7 +39,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-08-20T09:07:36.458Z"
+    "lastSeenAt": "2026-08-20T09:37:04.692Z"
   },
   {
     "id": "5c4644341ce84a1b5daeb3650f1586d9446948cb",
@@ -71,7 +50,7 @@
     "affectedStations": [],
     "startTime": null,
     "endTime": null,
-    "createdDate": "2026-04-18T11:50:27.000Z",
+    "createdDate": "2026-04-18T03:50:27.000Z",
     "lastUpdatedDate": null,
     "affectedSegments": [],
     "source": "TrainServiceAlerts",
@@ -81,6 +60,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-08-20T09:07:36.458Z"
+    "lastSeenAt": "2026-08-20T09:37:04.692Z"
   }
 ]

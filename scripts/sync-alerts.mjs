@@ -2,6 +2,7 @@ import { readFile, writeFile, rename } from "node:fs/promises";
 import { createHash } from "node:crypto";
 import { pathToFileURL } from "node:url";
 import process from "node:process";
+import { fetchXAlerts } from "./fetch-x.mjs";
 
 try {
   process.loadEnvFile();
@@ -74,26 +75,25 @@ export function normalize(rec, envelope) {
   };
 }
 
-export function mergeAndPrune(existing, fetched, now, retentionDays, envelope = null) {
+export function mergeRecords(existing, items, now, retentionDays) {
   const byId = new Map(Array.isArray(existing) ? existing.map((a) => [a.id, a]) : []);
   const seen = new Set();
   let added = 0;
   let updated = 0;
 
-  for (const rec of fetched) {
-    const alert = normalize(rec, envelope);
-    if (!alert.id) continue;
-    seen.add(alert.id);
-    const prev = byId.get(alert.id);
+  for (const item of items) {
+    if (!item.id) continue;
+    seen.add(item.id);
+    const prev = byId.get(item.id);
     if (prev) {
-      alert.firstSeenAt = prev.firstSeenAt ?? now;
+      item.firstSeenAt = prev.firstSeenAt ?? now;
       updated++;
     } else {
-      alert.firstSeenAt = now;
+      item.firstSeenAt = now;
       added++;
     }
-    alert.lastSeenAt = now;
-    byId.set(alert.id, alert);
+    item.lastSeenAt = now;
+    byId.set(item.id, item);
   }
 
   for (const [id, alert] of byId) {
@@ -110,14 +110,41 @@ export function mergeAndPrune(existing, fetched, now, retentionDays, envelope = 
     }
   }
 
-  const alerts = [...byId.values()].sort(
-    (a, b) =>
-      String(b.createdDate ?? b.startTime ?? "").localeCompare(
-        String(a.createdDate ?? a.startTime ?? ""),
-      ),
+  const alerts = [...byId.values()].sort((a, b) =>
+    String(b.createdDate ?? b.postedAt ?? b.startTime ?? "").localeCompare(
+      String(a.createdDate ?? a.postedAt ?? a.startTime ?? ""),
+    ),
   );
 
   return { alerts, added, updated, pruned };
+}
+
+export function mergeAndPrune(existing, fetched, now, retentionDays, envelope = null) {
+  const items = (Array.isArray(fetched) ? fetched : [])
+    .map((rec) => normalize(rec, envelope))
+    .filter((a) => a.id);
+  return mergeRecords(existing, items, now, retentionDays);
+}
+
+export async function fetchTrainAlerts({ accountKey, fetchImpl = fetch, url = LTA_URL }) {
+  if (!accountKey) {
+    throw new Error("LTA_ACCOUNT_KEY is not set");
+  }
+  const res = await fetchImpl(url, { headers: { AccountKey: accountKey } });
+  if (!res.ok) {
+    throw new Error(`LTA API responded with ${res.status}; keeping existing data`);
+  }
+  const body = await res.json();
+  const value = body.value;
+  let envelope = null;
+  let fetched = [];
+  if (Array.isArray(value)) {
+    fetched = value;
+  } else if (value && Array.isArray(value.Message)) {
+    envelope = value;
+    fetched = value.Message;
+  }
+  return { fetched, envelope };
 }
 
 async function loadJson(file) {
@@ -137,55 +164,55 @@ async function atomicWrite(file, data) {
 export async function runSync({
   accountKey,
   retentionDays,
-  alertsFile,
-  metaFile,
-  fetchImpl = fetch,
+  trainFile = "public/data/train-alerts.json",
+  busFile = "public/data/bus-alerts.json",
+  metaFile = "public/data/meta.json",
+  fetchImpl,
   now = new Date(),
-}) {
-  if (!accountKey) {
-    throw new Error("LTA_ACCOUNT_KEY is not set");
-  }
-
-  const res = await fetchImpl(LTA_URL, {
-    headers: { AccountKey: accountKey },
-  });
-  if (!res.ok) {
-    throw new Error(`LTA API responded with ${res.status}; keeping existing data`);
-  }
-
-  const body = await res.json();
-  const value = body.value;
-  let envelope = null;
-  let fetched = [];
-  if (Array.isArray(value)) {
-    fetched = value;
-  } else if (value && Array.isArray(value.Message)) {
-    envelope = value;
-    fetched = value.Message;
-  }
-
+} = {}) {
   const nowIso = now.toISOString();
-  const existing = await loadJson(alertsFile);
-  const { alerts, added, updated, pruned } = mergeAndPrune(existing, fetched, nowIso, retentionDays, envelope);
+  const [existingTrain, existingBus] = await Promise.all([loadJson(trainFile), loadJson(busFile)]);
 
-  await atomicWrite(alertsFile, alerts);
+  let trainAlerts = Array.isArray(existingTrain) ? existingTrain : [];
+  let busAlerts = Array.isArray(existingBus) ? existingBus : [];
+  const stats = { train: null, bus: null };
+
+  try {
+    const { fetched, envelope } = await fetchTrainAlerts({ accountKey, fetchImpl });
+    const r = mergeAndPrune(trainAlerts, fetched, nowIso, retentionDays, envelope);
+    trainAlerts = r.alerts;
+    stats.train = { fetched: fetched.length, added: r.added, updated: r.updated, pruned: r.pruned, total: r.alerts.length };
+  } catch (err) {
+    stats.train = { error: err.message };
+  }
+
+  try {
+    const busRecords = await fetchXAlerts({ fetchImpl });
+    const r = mergeRecords(busAlerts, busRecords, nowIso, retentionDays);
+    busAlerts = r.alerts;
+    stats.bus = { fetched: busRecords.length, added: r.added, updated: r.updated, pruned: r.pruned, total: r.alerts.length };
+  } catch (err) {
+    stats.bus = { error: err.message };
+  }
+
+  await Promise.all([atomicWrite(trainFile, trainAlerts), atomicWrite(busFile, busAlerts)]);
   await atomicWrite(metaFile, {
     lastSyncedAt: nowIso,
-    alertCount: alerts.length,
+    trainCount: trainAlerts.length,
+    busCount: busAlerts.length,
     retentionDays,
   });
 
-  return { fetched: fetched.length, added, updated, pruned, total: alerts.length, lastSyncedAt: nowIso };
+  stats.lastSyncedAt = nowIso;
+  return stats;
 }
 
 async function main() {
-  const result = await runSync({
+  const stats = await runSync({
     accountKey: process.env.LTA_ACCOUNT_KEY,
     retentionDays: Number(process.env.RETENTION_DAYS ?? 14),
-    alertsFile: process.env.ALERTS_FILE ?? "public/data/alerts.json",
-    metaFile: process.env.META_FILE ?? "public/data/meta.json",
   });
-  console.log(JSON.stringify(result, null, 2));
+  console.log(JSON.stringify(stats, null, 2));
 }
 
 const isMain = process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href;

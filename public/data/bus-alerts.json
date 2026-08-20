@@ -1,0 +1,242 @@
+[
+  {
+    "id": "x:2090348058039210049",
+    "mode": "bus",
+    "operator": "SBST",
+    "message": "Please be informed that Services 161 and 168 are being delayed along SLE (towards CTE) due to an accident.",
+    "postedAt": "2026-08-20T07:59:48.000Z",
+    "source": "X/SBSTransit_Ltd",
+    "raw": {
+      "handle": "SBSTransit_Ltd",
+      "statusId": "2090348058039210049"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-20T09:37:04.692Z",
+    "lastSeenAt": "2026-08-20T09:37:04.692Z"
+  },
+  {
+    "id": "x:2090339322474189283",
+    "mode": "bus",
+    "operator": "SBST",
+    "message": "Several bus services will be affected by road closures for road resurfacing works at the city centre. This will be on 23 August 2026, from 10pm to the end of bus operations, as well as 24 and 25 August 2026, from 11pm to the end of bus operations. https://t.co/s4s1GObwOf",
+    "postedAt": "2026-08-20T07:25:05.000Z",
+    "source": "X/SBSTransit_Ltd",
+    "raw": {
+      "handle": "SBSTransit_Ltd",
+      "statusId": "2090339322474189283"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-20T09:37:04.692Z",
+    "lastSeenAt": "2026-08-20T09:37:04.692Z"
+  },
+  {
+    "id": "x:2090331182131200157",
+    "mode": "bus",
+    "operator": "TTS",
+    "message": "On 23 August 2026, from 10pm to last bus, there will be a temporary route diversion for the buses shown in the poster. Please plan your journey accordingly. You can view the high-res image here: https://t.co/VDuonkleLO",
+    "postedAt": "2026-08-20T06:52:44.000Z",
+    "source": "X/towertransitSG",
+    "raw": {
+      "handle": "towertransitSG",
+      "statusId": "2090331182131200157"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-20T09:37:04.692Z",
+    "lastSeenAt": "2026-08-20T09:37:04.692Z"
+  },
+  {
+    "id": "x:2090317284560764978",
+    "mode": "bus",
+    "operator": "TTS",
+    "message": "From 24 August 2026 to 25 August 2026, from 11pm to last bus, there will be a temporary route diversion for the buses shown in the poster . Please plan your journey accordingly. You can view the high-res image here: https://t.co/zasbeQ49lJ",
+    "postedAt": "2026-08-20T05:57:31.000Z",
+    "source": "X/towertransitSG",
+    "raw": {
+      "handle": "towertransitSG",
+      "statusId": "2090317284560764978"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-20T09:37:04.692Z",
+    "lastSeenAt": "2026-08-20T09:37:04.692Z"
+  },
+  {
+    "id": "x:2090243246241067311",
+    "mode": "bus",
+    "operator": "GAS",
+    "message": "There will be a temporary route diversion due to the Road Works at City Centre (Raffles Ave x Temasek Ave). Pls refer to the poster for the affected bus svcs that will skip the following bus stops. The diversion will happen from Mon, 24 Aug to Tues, 25 Aug 2026, 11pm to last bus.",
+    "postedAt": "2026-08-20T01:03:19.000Z",
+    "source": "X/goaheadsg",
+    "raw": {
+      "handle": "goaheadsg",
+      "statusId": "2090243246241067311"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-20T09:37:04.692Z",
+    "lastSeenAt": "2026-08-20T09:37:04.692Z"
+  },
+  {
+    "id": "x:2090242987133653294",
+    "mode": "bus",
+    "operator": "GAS",
+    "message": "There will be a temporary route diversion due to the Road Works at City Centre (Raffles Avenue). Please refer to the poster for the affected bus services that will skip the following bus stops. The diversion will happen on Sunday 23 August 2026, from 10pm to last bus. #GoAheadSG",
+    "postedAt": "2026-08-20T01:02:17.000Z",
+    "source": "X/goaheadsg",
+    "raw": {
+      "handle": "goaheadsg",
+      "statusId": "2090242987133653294"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-20T09:37:04.692Z",
+    "lastSeenAt": "2026-08-20T09:37:04.692Z"
+  },
+  {
+    "id": "x:2090236422733410795",
+    "mode": "bus",
+    "operator": "SBST",
+    "message": "Please be informed that Service 170/170X is being diverted along Woodlands Road (towards BKE) with 4 bus stops skipped (46021, 46031, 46041 and 46051) due to traffic congestion. https://t.co/lDVQ9FLwCf",
+    "postedAt": "2026-08-20T00:36:12.000Z",
+    "source": "X/SBSTransit_Ltd",
+    "raw": {
+      "handle": "SBSTransit_Ltd",
+      "statusId": "2090236422733410795"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-20T09:37:04.692Z",
+    "lastSeenAt": "2026-08-20T09:37:04.692Z"
+  },
+  {
+    "id": "x:2090113055598514346",
+    "mode": "bus",
+    "operator": "SBST",
+    "message": "Please be informed that Service 170/170X is back to normal operations.",
+    "postedAt": "2026-08-19T16:25:59.000Z",
+    "source": "X/SBSTransit_Ltd",
+    "raw": {
+      "handle": "SBSTransit_Ltd",
+      "statusId": "2090113055598514346"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-20T09:37:04.692Z",
+    "lastSeenAt": "2026-08-20T09:37:04.692Z"
+  },
+  {
+    "id": "x:2088158087685558768",
+    "mode": "bus",
+    "operator": "GAS",
+    "message": "Bus Service 381 will be extended from Punggol East to Punggol Coast Bus Interchange from Sunday, 13 September 2026. It will call at additional bus stops along Punggol North Avenue, Punggol Drive and New Punggol Road. #GoAheadSG",
+    "postedAt": "2026-08-14T06:57:38.000Z",
+    "source": "X/goaheadsg",
+    "raw": {
+      "handle": "goaheadsg",
+      "statusId": "2088158087685558768"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-20T09:37:04.692Z",
+    "lastSeenAt": "2026-08-20T09:37:04.692Z"
+  },
+  {
+    "id": "x:2088115464509772010",
+    "mode": "bus",
+    "operator": "TTS",
+    "message": "In addition to the existing temporary route diversions for the buses shown in the poster, there will also be 5 full-weekend closures at Jurong Town Hall Road / West Coast Road. Please plan your journey accordingly. You can view the high-res image here: https://t.co/d5ndRY66DS",
+    "postedAt": "2026-08-14T04:08:16.000Z",
+    "source": "X/towertransitSG",
+    "raw": {
+      "handle": "towertransitSG",
+      "statusId": "2088115464509772010"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-20T09:37:04.692Z",
+    "lastSeenAt": "2026-08-20T09:37:04.692Z"
+  },
+  {
+    "id": "x:2087842347489100132",
+    "mode": "bus",
+    "operator": "GAS",
+    "message": "There will be a temporary route diversion due to the UOB Heartbeat Run/Walk 2026. Please refer to the poster for the affected bus services that will skip the following bus stop. The diversion will happen on Saturday, 15 August 2026, 4.00pm to 8.00pm. #GoAheadSG",
+    "postedAt": "2026-08-13T10:03:00.000Z",
+    "source": "X/goaheadsg",
+    "raw": {
+      "handle": "goaheadsg",
+      "statusId": "2087842347489100132"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-20T09:37:04.692Z",
+    "lastSeenAt": "2026-08-20T09:37:04.692Z"
+  },
+  {
+    "id": "x:2087787839761371610",
+    "mode": "bus",
+    "operator": "TTS",
+    "message": "On 15 August 2026, from 4pm to 8pm, there will be a temporary route diversion for the buses shown in the poster due to the UOB Heartbeat Run/Walk. Please plan your journey accordingly. You can view the high-res image here: https://t.co/6CfBfmAh8m",
+    "postedAt": "2026-08-13T06:26:24.000Z",
+    "source": "X/towertransitSG",
+    "raw": {
+      "handle": "towertransitSG",
+      "statusId": "2087787839761371610"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-20T09:37:04.692Z",
+    "lastSeenAt": "2026-08-20T09:37:04.692Z"
+  },
+  {
+    "id": "x:2087089130006356121",
+    "mode": "bus",
+    "operator": "SMRT",
+    "message": "In addition to the nightly road closures currently in place for Jurong Region Line works, Jurong Town Hall Road and West Coast Road will also be closed on weekends to facilitate works. 🚍🚧 As a result, bus service 176 will skip some bus stops during the affected period. See",
+    "postedAt": "2026-08-11T08:09:59.000Z",
+    "source": "X/SMRT_Singapore",
+    "raw": {
+      "handle": "SMRT_Singapore",
+      "statusId": "2087089130006356121"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-20T09:37:04.692Z",
+    "lastSeenAt": "2026-08-20T09:37:04.692Z"
+  },
+  {
+    "id": "x:2084488458983391510",
+    "mode": "bus",
+    "operator": "GAS",
+    "message": "There will be a temporary route diversion due to the Paya Lebar National Day Carnival 2026. Pls refer to the poster for the affected bus services that will skip the following bus stop. The diversion will happen on Sat, 8 Aug 26, 12pm to 10pm. #GoAheadSG",
+    "postedAt": "2026-08-04T03:55:51.000Z",
+    "source": "X/goaheadsg",
+    "raw": {
+      "handle": "goaheadsg",
+      "statusId": "2084488458983391510"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-20T09:37:04.692Z",
+    "lastSeenAt": "2026-08-20T09:37:04.692Z"
+  },
+  {
+    "id": "x:2083115688034697484",
+    "mode": "bus",
+    "operator": "TTS",
+    "message": "From 2 to 3 August 2026, 10pm to last bus, there will be temporary route diversions for the buses shown in the poster. Please plan your journey accordingly. You can view the high-res image here: https://t.co/8rq36ETFVe",
+    "postedAt": "2026-07-31T09:00:57.000Z",
+    "source": "X/towertransitSG",
+    "raw": {
+      "handle": "towertransitSG",
+      "statusId": "2083115688034697484"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-20T09:37:04.692Z",
+    "lastSeenAt": "2026-08-20T09:37:04.692Z"
+  },
+  {
+    "id": "x:2082846374190866676",
+    "mode": "bus",
+    "operator": "SBST",
+    "message": "Pls note that Service 53 is being diverted from its regular route along TPE (towards SLE) due to roadworks on 3, 4, 5, 7, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 29 and 31 August from 10pm to the end of operations. However, no bus stops will be skipped.",
+    "postedAt": "2026-07-30T15:10:47.000Z",
+    "source": "X/SBSTransit_Ltd",
+    "raw": {
+      "handle": "SBSTransit_Ltd",
+      "statusId": "2082846374190866676"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-20T09:37:04.692Z",
+    "lastSeenAt": "2026-08-20T09:37:04.692Z"
+  }
+]
