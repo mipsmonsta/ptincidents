@@ -1,5 +1,20 @@
 [
   {
+    "id": "x:2090608588398198816",
+    "mode": "bus",
+    "operator": "SBST",
+    "message": "Please be informed that Services 13, 16/16M, 134, 150 and 196 are skipping the bus stop along Marine Crescent, in front of Blk 45 (92239) due to a vehicle breakdown. https://t.co/zzstAA9hTI",
+    "postedAt": "2026-08-21T01:15:03.000Z",
+    "source": "X/SBSTransit_Ltd",
+    "raw": {
+      "handle": "SBSTransit_Ltd",
+      "statusId": "2090608588398198816"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-21T01:46:13.016Z",
+    "lastSeenAt": "2026-08-21T01:46:13.016Z"
+  },
+  {
     "id": "x:2090454437265629349",
     "mode": "bus",
     "operator": "SBST",
@@ -12,7 +27,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T15:07:06.650Z",
-    "lastSeenAt": "2026-08-20T23:32:21.165Z"
+    "lastSeenAt": "2026-08-21T01:46:13.016Z"
   },
   {
     "id": "x:2090409059531022624",
@@ -27,7 +42,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T13:02:26.719Z",
-    "lastSeenAt": "2026-08-20T23:32:21.165Z"
+    "lastSeenAt": "2026-08-21T01:46:13.016Z"
   },
   {
     "id": "x:2090348058039210049",
@@ -42,7 +57,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-20T23:32:21.165Z"
+    "lastSeenAt": "2026-08-21T01:46:13.016Z"
   },
   {
     "id": "x:2090339322474189283",
@@ -55,7 +70,7 @@
       "handle": "SBSTransit_Ltd",
       "statusId": "2090339322474189283"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
     "lastSeenAt": "2026-08-20T23:32:21.165Z"
   },
@@ -72,7 +87,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-20T23:32:21.165Z"
+    "lastSeenAt": "2026-08-21T01:46:13.016Z"
   },
   {
     "id": "x:2090317284560764978",
@@ -87,7 +102,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-20T23:32:21.165Z"
+    "lastSeenAt": "2026-08-21T01:46:13.016Z"
   },
   {
     "id": "x:2090243246241067311",
@@ -102,7 +117,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-20T23:32:21.165Z"
+    "lastSeenAt": "2026-08-21T01:46:13.016Z"
   },
   {
     "id": "x:2090242987133653294",
@@ -117,7 +132,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-20T23:32:21.165Z"
+    "lastSeenAt": "2026-08-21T01:46:13.016Z"
   },
   {
     "id": "x:2090236422733410795",
@@ -162,7 +177,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-20T23:32:21.165Z"
+    "lastSeenAt": "2026-08-21T01:46:13.016Z"
   },
   {
     "id": "x:2088115464509772010",
@@ -177,7 +192,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-20T23:32:21.165Z"
+    "lastSeenAt": "2026-08-21T01:46:13.016Z"
   },
   {
     "id": "x:2087842347489100132",
@@ -192,7 +207,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-20T23:32:21.165Z"
+    "lastSeenAt": "2026-08-21T01:46:13.016Z"
   },
   {
     "id": "x:2087787839761371610",
@@ -207,7 +222,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-20T23:32:21.165Z"
+    "lastSeenAt": "2026-08-21T01:46:13.016Z"
   },
   {
     "id": "x:2087089130006356121",
@@ -222,7 +237,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-20T23:32:21.165Z"
+    "lastSeenAt": "2026-08-21T01:46:13.016Z"
   },
   {
     "id": "x:2084488458983391510",
@@ -237,7 +252,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-20T23:32:21.165Z"
+    "lastSeenAt": "2026-08-21T01:46:13.016Z"
   },
   {
     "id": "x:2083115688034697484",
@@ -252,7 +267,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-20T23:32:21.165Z"
+    "lastSeenAt": "2026-08-21T01:46:13.016Z"
   },
   {
     "id": "x:2082846374190866676",
@@ -267,6 +282,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-20T23:32:21.165Z"
+    "lastSeenAt": "2026-08-21T01:46:13.016Z"
   }
 ]
