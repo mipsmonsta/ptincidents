@@ -1,5 +1,26 @@
 [
   {
+    "id": "ef07980de270266bd6d5dcb64617632d98115a4c",
+    "status": 1,
+    "incidentType": null,
+    "message": "21/08/2026 10:00-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-08-21T10:01:13.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "21/08/2026 10:00-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+      "CreatedDate": "2026-08-21 10:01:13"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-21T03:09:54.527Z",
+    "lastSeenAt": "2026-08-21T03:09:54.527Z"
+  },
+  {
     "id": "f84e13acd8a4993436058d4dddaf8f33686b03f7",
     "status": 1,
     "incidentType": null,
@@ -16,7 +37,7 @@
       "Content": "21/08/2026 09.02 - Bus services 13, 16, 16M, 134, 150, 196 and 196e have been diverted due to vehicle breakdown along Marine Crescent (towards East Coast Road), after bus stop BS 92239 outside Blk 45.",
       "CreatedDate": "2026-08-21 09:12:26"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-21T01:46:13.016Z",
     "lastSeenAt": "2026-08-21T01:46:13.016Z"
   },
@@ -60,7 +81,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-08-21T01:46:13.016Z"
+    "lastSeenAt": "2026-08-21T03:09:54.527Z"
   },
   {
     "id": "5c4644341ce84a1b5daeb3650f1586d9446948cb",
@@ -81,6 +102,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-08-21T01:46:13.016Z"
+    "lastSeenAt": "2026-08-21T03:09:54.527Z"
   }
 ]
