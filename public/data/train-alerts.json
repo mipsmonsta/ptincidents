@@ -1,5 +1,26 @@
 [
   {
+    "id": "30641cff9657bbffc62b4edbb57c31864695a4f8",
+    "status": 1,
+    "incidentType": null,
+    "message": "24/08/2026 05:30-Bus services 10, 10e, 12, 14, 14e, 31, 32, 36, 36B, 40, 43, 43e, 48, 134, 196, 196e and 197 are expected to be delayed due to road works on Mountbatten Road (towards Changi) after Tanjong Katong Road.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-08-24T05:30:10.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "24/08/2026 05:30-Bus services 10, 10e, 12, 14, 14e, 31, 32, 36, 36B, 40, 43, 43e, 48, 134, 196, 196e and 197 are expected to be delayed due to road works on Mountbatten Road (towards Changi) after Tanjong Katong Road.",
+      "CreatedDate": "2026-08-24 05:30:10"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-23T21:51:31.111Z",
+    "lastSeenAt": "2026-08-23T21:51:31.111Z"
+  },
+  {
     "id": "1eb73897b7a9c1983814ed2f4a95014ef21bfda1",
     "status": 1,
     "incidentType": null,
@@ -102,7 +123,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-08-23T21:28:24.402Z"
+    "lastSeenAt": "2026-08-23T21:51:31.111Z"
   },
   {
     "id": "5c4644341ce84a1b5daeb3650f1586d9446948cb",
@@ -123,6 +144,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-08-23T21:28:24.402Z"
+    "lastSeenAt": "2026-08-23T21:51:31.111Z"
   }
 ]
