@@ -1,5 +1,35 @@
 [
   {
+    "id": "x:2091388613074575480",
+    "mode": "bus",
+    "operator": "SBST",
+    "message": "Please be informed that Services 80, 87, 89 and 325 are back to normal operations.",
+    "postedAt": "2026-08-23T04:54:36.000Z",
+    "source": "X/SBSTransit_Ltd",
+    "raw": {
+      "handle": "SBSTransit_Ltd",
+      "statusId": "2091388613074575480"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-23T05:03:57.676Z",
+    "lastSeenAt": "2026-08-23T05:03:57.676Z"
+  },
+  {
+    "id": "x:2091379181221540030",
+    "mode": "bus",
+    "operator": "SBST",
+    "message": "Please be informed that Services 80, 87, 89 and 325 are being diverted from Hougang Ave 8 and Hougang Ave 10 with 2 bus stops skipped (64031 and 64429) due to an accident. https://t.co/zzstAA9hTI",
+    "postedAt": "2026-08-23T04:17:07.000Z",
+    "source": "X/SBSTransit_Ltd",
+    "raw": {
+      "handle": "SBSTransit_Ltd",
+      "statusId": "2091379181221540030"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-23T05:03:57.676Z",
+    "lastSeenAt": "2026-08-23T05:03:57.676Z"
+  },
+  {
     "id": "x:2091122149272830215",
     "mode": "bus",
     "operator": "SBST",
@@ -12,7 +42,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-22T11:27:02.317Z",
-    "lastSeenAt": "2026-08-23T04:10:58.040Z"
+    "lastSeenAt": "2026-08-23T05:03:57.676Z"
   },
   {
     "id": "x:2090969803800584353",
@@ -27,7 +57,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-22T01:39:29.921Z",
-    "lastSeenAt": "2026-08-23T04:10:58.040Z"
+    "lastSeenAt": "2026-08-23T05:03:57.676Z"
   },
   {
     "id": "x:2090837034604929496",
@@ -40,7 +70,7 @@
       "handle": "SBSTransit_Ltd",
       "statusId": "2090837034604929496"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-21T17:02:45.950Z",
     "lastSeenAt": "2026-08-23T04:10:58.040Z"
   },
@@ -55,7 +85,7 @@
       "handle": "SBSTransit_Ltd",
       "statusId": "2090619367130313186"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-21T03:09:54.527Z",
     "lastSeenAt": "2026-08-23T04:10:58.040Z"
   },
@@ -162,7 +192,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-23T04:10:58.040Z"
+    "lastSeenAt": "2026-08-23T05:03:57.676Z"
   },
   {
     "id": "x:2090317284560764978",
@@ -177,7 +207,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-23T04:10:58.040Z"
+    "lastSeenAt": "2026-08-23T05:03:57.676Z"
   },
   {
     "id": "x:2090243246241067311",
@@ -192,7 +222,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-23T04:10:58.040Z"
+    "lastSeenAt": "2026-08-23T05:03:57.676Z"
   },
   {
     "id": "x:2090242987133653294",
@@ -207,7 +237,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-23T04:10:58.040Z"
+    "lastSeenAt": "2026-08-23T05:03:57.676Z"
   },
   {
     "id": "x:2090236422733410795",
@@ -252,7 +282,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-23T04:10:58.040Z"
+    "lastSeenAt": "2026-08-23T05:03:57.676Z"
   },
   {
     "id": "x:2088115464509772010",
@@ -267,7 +297,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-23T04:10:58.040Z"
+    "lastSeenAt": "2026-08-23T05:03:57.676Z"
   },
   {
     "id": "x:2087842347489100132",
@@ -282,7 +312,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-23T04:10:58.040Z"
+    "lastSeenAt": "2026-08-23T05:03:57.676Z"
   },
   {
     "id": "x:2087787839761371610",
@@ -297,7 +327,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-23T04:10:58.040Z"
+    "lastSeenAt": "2026-08-23T05:03:57.676Z"
   },
   {
     "id": "x:2087089130006356121",
@@ -312,7 +342,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-23T04:10:58.040Z"
+    "lastSeenAt": "2026-08-23T05:03:57.676Z"
   },
   {
     "id": "x:2084488458983391510",
@@ -327,7 +357,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-23T04:10:58.040Z"
+    "lastSeenAt": "2026-08-23T05:03:57.676Z"
   },
   {
     "id": "x:2083115688034697484",
@@ -342,7 +372,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-23T04:10:58.040Z"
+    "lastSeenAt": "2026-08-23T05:03:57.676Z"
   },
   {
     "id": "x:2082846374190866676",
@@ -357,6 +387,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-23T04:10:58.040Z"
+    "lastSeenAt": "2026-08-23T05:03:57.676Z"
   }
 ]
