@@ -1,5 +1,20 @@
 [
   {
+    "id": "x:2092244867674206350",
+    "mode": "bus",
+    "operator": "SBST",
+    "message": "Please be informed that Service 170/170X is back to normal operations.",
+    "postedAt": "2026-08-25T13:37:03.000Z",
+    "source": "X/SBSTransit_Ltd",
+    "raw": {
+      "handle": "SBSTransit_Ltd",
+      "statusId": "2092244867674206350"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-25T14:22:05.816Z",
+    "lastSeenAt": "2026-08-25T14:22:05.816Z"
+  },
+  {
     "id": "x:2092208814103900210",
     "mode": "bus",
     "operator": "SBST",
@@ -12,7 +27,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-25T11:56:31.071Z",
-    "lastSeenAt": "2026-08-25T13:03:39.825Z"
+    "lastSeenAt": "2026-08-25T14:22:05.816Z"
   },
   {
     "id": "x:2092173159026024523",
@@ -27,7 +42,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-25T09:10:25.761Z",
-    "lastSeenAt": "2026-08-25T13:03:39.825Z"
+    "lastSeenAt": "2026-08-25T14:22:05.816Z"
   },
   {
     "id": "x:2092090173366718959",
@@ -42,7 +57,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-25T04:10:40.825Z",
-    "lastSeenAt": "2026-08-25T13:03:39.825Z"
+    "lastSeenAt": "2026-08-25T14:22:05.816Z"
   },
   {
     "id": "x:2092079156561612878",
@@ -55,7 +70,7 @@
       "handle": "SBSTransit_Ltd",
       "statusId": "2092079156561612878"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-25T03:06:08.368Z",
     "lastSeenAt": "2026-08-25T13:03:39.825Z"
   },
@@ -147,7 +162,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-24T03:10:44.622Z",
-    "lastSeenAt": "2026-08-25T13:03:39.825Z"
+    "lastSeenAt": "2026-08-25T14:22:05.816Z"
   },
   {
     "id": "x:2091709023603307005",
@@ -162,7 +177,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-24T03:10:44.622Z",
-    "lastSeenAt": "2026-08-25T13:03:39.825Z"
+    "lastSeenAt": "2026-08-25T14:22:05.816Z"
   },
   {
     "id": "x:2091705481882648816",
@@ -417,7 +432,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-25T13:03:39.825Z"
+    "lastSeenAt": "2026-08-25T14:22:05.816Z"
   },
   {
     "id": "x:2090243246241067311",
@@ -432,7 +447,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-25T13:03:39.825Z"
+    "lastSeenAt": "2026-08-25T14:22:05.816Z"
   },
   {
     "id": "x:2090242987133653294",
@@ -447,7 +462,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-25T13:03:39.825Z"
+    "lastSeenAt": "2026-08-25T14:22:05.816Z"
   },
   {
     "id": "x:2090236422733410795",
@@ -492,7 +507,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-25T13:03:39.825Z"
+    "lastSeenAt": "2026-08-25T14:22:05.816Z"
   },
   {
     "id": "x:2088115464509772010",
@@ -507,7 +522,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-25T13:03:39.825Z"
+    "lastSeenAt": "2026-08-25T14:22:05.816Z"
   },
   {
     "id": "x:2087842347489100132",
@@ -522,7 +537,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-25T13:03:39.825Z"
+    "lastSeenAt": "2026-08-25T14:22:05.816Z"
   },
   {
     "id": "x:2087787839761371610",
@@ -537,7 +552,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-25T13:03:39.825Z"
+    "lastSeenAt": "2026-08-25T14:22:05.816Z"
   },
   {
     "id": "x:2087089130006356121",
@@ -552,7 +567,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-25T13:03:39.825Z"
+    "lastSeenAt": "2026-08-25T14:22:05.816Z"
   },
   {
     "id": "x:2084488458983391510",
@@ -567,7 +582,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-25T13:03:39.825Z"
+    "lastSeenAt": "2026-08-25T14:22:05.816Z"
   },
   {
     "id": "x:2083115688034697484",
@@ -597,6 +612,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-25T13:03:39.825Z"
+    "lastSeenAt": "2026-08-25T14:22:05.816Z"
   }
 ]

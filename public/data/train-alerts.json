@@ -37,7 +37,7 @@
       "Content": "25/08/2026 10:30-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
       "CreatedDate": "2026-08-25 10:30:38"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-25T03:06:08.368Z",
     "lastSeenAt": "2026-08-25T13:03:39.825Z"
   },
@@ -186,7 +186,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-08-25T13:03:39.825Z"
+    "lastSeenAt": "2026-08-25T14:22:05.816Z"
   },
   {
     "id": "5c4644341ce84a1b5daeb3650f1586d9446948cb",
@@ -207,6 +207,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-08-25T13:03:39.825Z"
+    "lastSeenAt": "2026-08-25T14:22:05.816Z"
   }
 ]
