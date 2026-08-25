@@ -1,5 +1,26 @@
 [
   {
+    "id": "0c38a2f1f49957fe525163dc797124d723308fdb",
+    "status": 1,
+    "incidentType": null,
+    "message": "25/08/2026 11.20 - Bus services 78 and 79 are delayed by up to 30 minutes due to road works along Penjuru Road (towards West Coast Road) after bus stop (BS 29031).",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-08-25T11:22:59.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "25/08/2026 11.20 - Bus services 78 and 79 are delayed by up to 30 minutes due to road works along Penjuru Road (towards West Coast Road) after bus stop (BS 29031).",
+      "CreatedDate": "2026-08-25 11:22:59"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-25T04:10:40.825Z",
+    "lastSeenAt": "2026-08-25T04:10:40.825Z"
+  },
+  {
     "id": "1bdc613776731bbb8760d00e07eb9e365fa4968d",
     "status": 1,
     "incidentType": null,
@@ -18,7 +39,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-25T03:06:08.368Z",
-    "lastSeenAt": "2026-08-25T03:06:08.368Z"
+    "lastSeenAt": "2026-08-25T04:10:40.825Z"
   },
   {
     "id": "849d8090594b2d607f3fbe9cf1254c716dde1b8b",
@@ -165,7 +186,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-08-25T03:06:08.368Z"
+    "lastSeenAt": "2026-08-25T04:10:40.825Z"
   },
   {
     "id": "5c4644341ce84a1b5daeb3650f1586d9446948cb",
@@ -186,6 +207,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-08-25T03:06:08.368Z"
+    "lastSeenAt": "2026-08-25T04:10:40.825Z"
   }
 ]
