@@ -1,5 +1,35 @@
 [
   {
+    "id": "x:2092079156561612878",
+    "mode": "bus",
+    "operator": "SBST",
+    "message": "Please be informed that Services 161 and 168 are being delayed along SLE (towards BKE) due to traffic congestion.",
+    "postedAt": "2026-08-25T02:38:34.000Z",
+    "source": "X/SBSTransit_Ltd",
+    "raw": {
+      "handle": "SBSTransit_Ltd",
+      "statusId": "2092079156561612878"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-25T03:06:08.368Z",
+    "lastSeenAt": "2026-08-25T03:06:08.368Z"
+  },
+  {
+    "id": "x:2092076922146881750",
+    "mode": "bus",
+    "operator": "SBST",
+    "message": "Please be informed that Service 170/170X is being diverted along Woodlands Road (towards BKE) with 4 bus stops skipped (46021, 46031, 46041 and 46051) due to traffic congestion. https://t.co/zzstAA9hTI",
+    "postedAt": "2026-08-25T02:29:41.000Z",
+    "source": "X/SBSTransit_Ltd",
+    "raw": {
+      "handle": "SBSTransit_Ltd",
+      "statusId": "2092076922146881750"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-25T03:06:08.368Z",
+    "lastSeenAt": "2026-08-25T03:06:08.368Z"
+  },
+  {
     "id": "x:2092062967999385970",
     "mode": "bus",
     "operator": "SBST",
@@ -12,7 +42,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-25T01:41:17.185Z",
-    "lastSeenAt": "2026-08-25T01:41:17.185Z"
+    "lastSeenAt": "2026-08-25T03:06:08.368Z"
   },
   {
     "id": "x:2091870599413174708",
@@ -27,7 +57,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-24T13:03:35.565Z",
-    "lastSeenAt": "2026-08-25T01:41:17.185Z"
+    "lastSeenAt": "2026-08-25T03:06:08.368Z"
   },
   {
     "id": "x:2091845760799371411",
@@ -40,7 +70,7 @@
       "handle": "SBSTransit_Ltd",
       "statusId": "2091845760799371411"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-24T11:35:56.579Z",
     "lastSeenAt": "2026-08-25T01:41:17.185Z"
   },
@@ -55,7 +85,7 @@
       "handle": "SBSTransit_Ltd",
       "statusId": "2091723875310764037"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-24T03:10:44.622Z",
     "lastSeenAt": "2026-08-25T01:41:17.185Z"
   },
@@ -72,7 +102,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-24T03:10:44.622Z",
-    "lastSeenAt": "2026-08-25T01:41:17.185Z"
+    "lastSeenAt": "2026-08-25T03:06:08.368Z"
   },
   {
     "id": "x:2091709023603307005",
@@ -87,7 +117,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-24T03:10:44.622Z",
-    "lastSeenAt": "2026-08-25T01:41:17.185Z"
+    "lastSeenAt": "2026-08-25T03:06:08.368Z"
   },
   {
     "id": "x:2091705481882648816",
@@ -342,7 +372,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-25T01:41:17.185Z"
+    "lastSeenAt": "2026-08-25T03:06:08.368Z"
   },
   {
     "id": "x:2090243246241067311",
@@ -357,7 +387,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-25T01:41:17.185Z"
+    "lastSeenAt": "2026-08-25T03:06:08.368Z"
   },
   {
     "id": "x:2090242987133653294",
@@ -372,7 +402,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-25T01:41:17.185Z"
+    "lastSeenAt": "2026-08-25T03:06:08.368Z"
   },
   {
     "id": "x:2090236422733410795",
@@ -417,7 +447,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-25T01:41:17.185Z"
+    "lastSeenAt": "2026-08-25T03:06:08.368Z"
   },
   {
     "id": "x:2088115464509772010",
@@ -432,7 +462,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-25T01:41:17.185Z"
+    "lastSeenAt": "2026-08-25T03:06:08.368Z"
   },
   {
     "id": "x:2087842347489100132",
@@ -447,7 +477,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-25T01:41:17.185Z"
+    "lastSeenAt": "2026-08-25T03:06:08.368Z"
   },
   {
     "id": "x:2087787839761371610",
@@ -462,7 +492,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-25T01:41:17.185Z"
+    "lastSeenAt": "2026-08-25T03:06:08.368Z"
   },
   {
     "id": "x:2087089130006356121",
@@ -477,7 +507,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-25T01:41:17.185Z"
+    "lastSeenAt": "2026-08-25T03:06:08.368Z"
   },
   {
     "id": "x:2084488458983391510",
@@ -492,7 +522,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-25T01:41:17.185Z"
+    "lastSeenAt": "2026-08-25T03:06:08.368Z"
   },
   {
     "id": "x:2083115688034697484",
@@ -522,6 +552,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-25T01:41:17.185Z"
+    "lastSeenAt": "2026-08-25T03:06:08.368Z"
   }
 ]
