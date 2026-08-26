@@ -1,5 +1,47 @@
 [
   {
+    "id": "d6bb1e6596887c5f272ee80e5233a0c8dae65657",
+    "status": 1,
+    "incidentType": null,
+    "message": "26/08/2026 10:24-(Update) Bus services 161 and 168 are delayed by up to 40 minutes due to accident along SLE (towards CTE) after Mandai Avenue.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-08-26T10:26:08.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "26/08/2026 10:24-(Update) Bus services 161 and 168 are delayed by up to 40 minutes due to accident along SLE (towards CTE) after Mandai Avenue.",
+      "CreatedDate": "2026-08-26 10:26:08"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-26T03:12:23.833Z",
+    "lastSeenAt": "2026-08-26T03:12:23.833Z"
+  },
+  {
+    "id": "26879a9ec786002a8a26e17e4920dc1d6be1da2f",
+    "status": 1,
+    "incidentType": null,
+    "message": "26/08/2026 10:19-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-08-26T10:18:46.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "26/08/2026 10:19-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+      "CreatedDate": "2026-08-26 10:18:46"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-26T03:12:23.833Z",
+    "lastSeenAt": "2026-08-26T03:12:23.833Z"
+  },
+  {
     "id": "4fc87e4b6dc4d7c0b63e6bf7d3a71c1b2f48b73e",
     "status": 1,
     "incidentType": null,
@@ -16,7 +58,7 @@
       "Content": "26/08/2026 09:36-Bus services 161 and 168 are delayed by up to 20 minutes due to accident along SLE (towards CTE) after Mandai Avenue.",
       "CreatedDate": "2026-08-26 09:45:49"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-26T01:46:58.825Z",
     "lastSeenAt": "2026-08-26T01:46:58.825Z"
   },
@@ -207,7 +249,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-08-26T01:46:58.825Z"
+    "lastSeenAt": "2026-08-26T03:12:23.833Z"
   },
   {
     "id": "5c4644341ce84a1b5daeb3650f1586d9446948cb",
@@ -228,6 +270,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-08-26T01:46:58.825Z"
+    "lastSeenAt": "2026-08-26T03:12:23.833Z"
   }
 ]
