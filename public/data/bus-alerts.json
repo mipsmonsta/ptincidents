@@ -1,5 +1,20 @@
 [
   {
+    "id": "x:2092774948226154732",
+    "mode": "bus",
+    "operator": "SBST",
+    "message": "Please be informed that Service 170/170X is being diverted along Woodlands Road (towards BKE) with 4 bus stops skipped (46021, 46031, 46041 and 46051) due to traffic congestion. https://t.co/zzstAA9hTI",
+    "postedAt": "2026-08-27T00:43:24.000Z",
+    "source": "X/SBSTransit_Ltd",
+    "raw": {
+      "handle": "SBSTransit_Ltd",
+      "statusId": "2092774948226154732"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-27T11:06:02.859Z",
+    "lastSeenAt": "2026-08-27T11:06:02.859Z"
+  },
+  {
     "id": "x:2092637083743731774",
     "mode": "bus",
     "operator": "SBST",
@@ -10,9 +25,9 @@
       "handle": "SBSTransit_Ltd",
       "statusId": "2092637083743731774"
     },
-    "current": false,
+    "current": true,
     "firstSeenAt": "2026-08-26T16:02:34.574Z",
-    "lastSeenAt": "2026-08-26T20:59:01.547Z"
+    "lastSeenAt": "2026-08-27T11:06:02.859Z"
   },
   {
     "id": "x:2092499717343314202",
@@ -25,9 +40,9 @@
       "handle": "SBSTransit_Ltd",
       "statusId": "2092499717343314202"
     },
-    "current": false,
+    "current": true,
     "firstSeenAt": "2026-08-26T07:27:57.821Z",
-    "lastSeenAt": "2026-08-26T20:59:01.547Z"
+    "lastSeenAt": "2026-08-27T11:06:02.859Z"
   },
   {
     "id": "x:2092483540340572304",
@@ -40,9 +55,9 @@
       "handle": "goaheadsg",
       "statusId": "2092483540340572304"
     },
-    "current": false,
+    "current": true,
     "firstSeenAt": "2026-08-26T06:01:43.338Z",
-    "lastSeenAt": "2026-08-26T20:59:01.547Z"
+    "lastSeenAt": "2026-08-27T11:06:02.859Z"
   },
   {
     "id": "x:2092462626379112589",
@@ -55,9 +70,9 @@
       "handle": "SBSTransit_Ltd",
       "statusId": "2092462626379112589"
     },
-    "current": false,
+    "current": true,
     "firstSeenAt": "2026-08-26T04:11:52.419Z",
-    "lastSeenAt": "2026-08-26T20:59:01.547Z"
+    "lastSeenAt": "2026-08-27T11:06:02.859Z"
   },
   {
     "id": "x:2092457224392372237",
@@ -85,9 +100,9 @@
       "handle": "towertransitSG",
       "statusId": "2092440572011417901"
     },
-    "current": false,
+    "current": true,
     "firstSeenAt": "2026-08-26T03:12:23.833Z",
-    "lastSeenAt": "2026-08-26T20:59:01.547Z"
+    "lastSeenAt": "2026-08-27T11:06:02.859Z"
   },
   {
     "id": "x:2092436874002673781",
@@ -280,9 +295,9 @@
       "handle": "towertransitSG",
       "statusId": "2091709183221739805"
     },
-    "current": false,
+    "current": true,
     "firstSeenAt": "2026-08-24T03:10:44.622Z",
-    "lastSeenAt": "2026-08-26T20:59:01.547Z"
+    "lastSeenAt": "2026-08-27T11:06:02.859Z"
   },
   {
     "id": "x:2091709023603307005",
@@ -295,9 +310,9 @@
       "handle": "towertransitSG",
       "statusId": "2091709023603307005"
     },
-    "current": false,
+    "current": true,
     "firstSeenAt": "2026-08-24T03:10:44.622Z",
-    "lastSeenAt": "2026-08-26T20:59:01.547Z"
+    "lastSeenAt": "2026-08-27T11:06:02.859Z"
   },
   {
     "id": "x:2091705481882648816",
@@ -550,9 +565,9 @@
       "handle": "towertransitSG",
       "statusId": "2090317284560764978"
     },
-    "current": false,
+    "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-26T20:59:01.547Z"
+    "lastSeenAt": "2026-08-27T11:06:02.859Z"
   },
   {
     "id": "x:2090243246241067311",
@@ -565,9 +580,9 @@
       "handle": "goaheadsg",
       "statusId": "2090243246241067311"
     },
-    "current": false,
+    "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-26T20:59:01.547Z"
+    "lastSeenAt": "2026-08-27T11:06:02.859Z"
   },
   {
     "id": "x:2090242987133653294",
@@ -580,9 +595,9 @@
       "handle": "goaheadsg",
       "statusId": "2090242987133653294"
     },
-    "current": false,
+    "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-26T20:59:01.547Z"
+    "lastSeenAt": "2026-08-27T11:06:02.859Z"
   },
   {
     "id": "x:2090236422733410795",
@@ -625,9 +640,9 @@
       "handle": "goaheadsg",
       "statusId": "2088158087685558768"
     },
-    "current": false,
+    "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-26T20:59:01.547Z"
+    "lastSeenAt": "2026-08-27T11:06:02.859Z"
   },
   {
     "id": "x:2088115464509772010",
@@ -640,9 +655,9 @@
       "handle": "towertransitSG",
       "statusId": "2088115464509772010"
     },
-    "current": false,
+    "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-26T20:59:01.547Z"
+    "lastSeenAt": "2026-08-27T11:06:02.859Z"
   },
   {
     "id": "x:2087842347489100132",
@@ -655,9 +670,9 @@
       "handle": "goaheadsg",
       "statusId": "2087842347489100132"
     },
-    "current": false,
+    "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-26T20:59:01.547Z"
+    "lastSeenAt": "2026-08-27T11:06:02.859Z"
   },
   {
     "id": "x:2087787839761371610",
@@ -685,9 +700,9 @@
       "handle": "SMRT_Singapore",
       "statusId": "2087089130006356121"
     },
-    "current": false,
+    "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-26T20:59:01.547Z"
+    "lastSeenAt": "2026-08-27T11:06:02.859Z"
   },
   {
     "id": "x:2084488458983391510",
@@ -730,8 +745,8 @@
       "handle": "SBSTransit_Ltd",
       "statusId": "2082846374190866676"
     },
-    "current": false,
+    "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-26T20:59:01.547Z"
+    "lastSeenAt": "2026-08-27T11:06:02.859Z"
   }
 ]
