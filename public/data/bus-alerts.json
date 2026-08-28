@@ -1,5 +1,65 @@
 [
   {
+    "id": "x:2093207045277438268",
+    "mode": "bus",
+    "operator": "SBST",
+    "message": "Please be informed that Services 80, 86, 87, 102, 372 and 374 are being diverted from their regular routes along Compassvale Rd (towards Sengkang East Way) due to an accident. However, no bus stops will be skipped.",
+    "postedAt": "2026-08-28T05:20:24.000Z",
+    "source": "X/SBSTransit_Ltd",
+    "raw": {
+      "handle": "SBSTransit_Ltd",
+      "statusId": "2093207045277438268"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-28T05:34:54.982Z",
+    "lastSeenAt": "2026-08-28T05:34:54.982Z"
+  },
+  {
+    "id": "x:2093194701813989883",
+    "mode": "bus",
+    "operator": "SBST",
+    "message": "Please be informed that Services 40 and 137 are back to normal operations.",
+    "postedAt": "2026-08-28T04:31:21.000Z",
+    "source": "X/SBSTransit_Ltd",
+    "raw": {
+      "handle": "SBSTransit_Ltd",
+      "statusId": "2093194701813989883"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-28T05:34:54.982Z",
+    "lastSeenAt": "2026-08-28T05:34:54.982Z"
+  },
+  {
+    "id": "x:2093183462689870232",
+    "mode": "bus",
+    "operator": "SBST",
+    "message": "Please be informed that Services 40 and 137 are skipping the bus stop along Aljunied Rd, opposite KH Plaza (81231) due to an accident. https://t.co/zzstAA9hTI",
+    "postedAt": "2026-08-28T03:46:41.000Z",
+    "source": "X/SBSTransit_Ltd",
+    "raw": {
+      "handle": "SBSTransit_Ltd",
+      "statusId": "2093183462689870232"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-28T05:34:54.982Z",
+    "lastSeenAt": "2026-08-28T05:34:54.982Z"
+  },
+  {
+    "id": "x:2093166257910714381",
+    "mode": "bus",
+    "operator": "SBST",
+    "message": "Please be informed that Service 170/170X is being diverted along Woodlands Road (towards BKE) with 4 bus stops skipped (46021, 46031, 46041 and 46051) due to traffic congestion. https://t.co/zzstAA9hTI",
+    "postedAt": "2026-08-28T02:38:19.000Z",
+    "source": "X/SBSTransit_Ltd",
+    "raw": {
+      "handle": "SBSTransit_Ltd",
+      "statusId": "2093166257910714381"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-28T05:34:54.982Z",
+    "lastSeenAt": "2026-08-28T05:34:54.982Z"
+  },
+  {
     "id": "x:2093006074769289504",
     "mode": "bus",
     "operator": "SBST",
@@ -10,7 +70,7 @@
       "handle": "SBSTransit_Ltd",
       "statusId": "2093006074769289504"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-27T21:07:24.440Z",
     "lastSeenAt": "2026-08-27T21:07:24.440Z"
   },
@@ -25,7 +85,7 @@
       "handle": "SBSTransit_Ltd",
       "statusId": "2092774948226154732"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-27T11:06:02.859Z",
     "lastSeenAt": "2026-08-27T21:07:24.440Z"
   },
@@ -40,7 +100,7 @@
       "handle": "SBSTransit_Ltd",
       "statusId": "2092637083743731774"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-26T16:02:34.574Z",
     "lastSeenAt": "2026-08-27T21:07:24.440Z"
   },
@@ -55,7 +115,7 @@
       "handle": "SBSTransit_Ltd",
       "statusId": "2092499717343314202"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-26T07:27:57.821Z",
     "lastSeenAt": "2026-08-27T21:07:24.440Z"
   },
@@ -72,7 +132,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-26T06:01:43.338Z",
-    "lastSeenAt": "2026-08-27T21:07:24.440Z"
+    "lastSeenAt": "2026-08-28T05:34:54.982Z"
   },
   {
     "id": "x:2092462626379112589",
@@ -117,7 +177,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-26T03:12:23.833Z",
-    "lastSeenAt": "2026-08-27T21:07:24.440Z"
+    "lastSeenAt": "2026-08-28T05:34:54.982Z"
   },
   {
     "id": "x:2092436874002673781",
@@ -312,7 +372,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-24T03:10:44.622Z",
-    "lastSeenAt": "2026-08-27T21:07:24.440Z"
+    "lastSeenAt": "2026-08-28T05:34:54.982Z"
   },
   {
     "id": "x:2091709023603307005",
@@ -327,7 +387,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-24T03:10:44.622Z",
-    "lastSeenAt": "2026-08-27T21:07:24.440Z"
+    "lastSeenAt": "2026-08-28T05:34:54.982Z"
   },
   {
     "id": "x:2091705481882648816",
@@ -582,7 +642,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-27T21:07:24.440Z"
+    "lastSeenAt": "2026-08-28T05:34:54.982Z"
   },
   {
     "id": "x:2090243246241067311",
@@ -597,7 +657,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-27T21:07:24.440Z"
+    "lastSeenAt": "2026-08-28T05:34:54.982Z"
   },
   {
     "id": "x:2090242987133653294",
@@ -612,7 +672,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-27T21:07:24.440Z"
+    "lastSeenAt": "2026-08-28T05:34:54.982Z"
   },
   {
     "id": "x:2090236422733410795",
@@ -657,7 +717,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-27T21:07:24.440Z"
+    "lastSeenAt": "2026-08-28T05:34:54.982Z"
   },
   {
     "id": "x:2088115464509772010",
@@ -672,7 +732,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-27T21:07:24.440Z"
+    "lastSeenAt": "2026-08-28T05:34:54.982Z"
   },
   {
     "id": "x:2087842347489100132",
@@ -687,7 +747,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-27T21:07:24.440Z"
+    "lastSeenAt": "2026-08-28T05:34:54.982Z"
   },
   {
     "id": "x:2087787839761371610",
@@ -717,7 +777,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-27T21:07:24.440Z"
+    "lastSeenAt": "2026-08-28T05:34:54.982Z"
   },
   {
     "id": "x:2084488458983391510",
@@ -762,6 +822,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-27T21:07:24.440Z"
+    "lastSeenAt": "2026-08-28T05:34:54.982Z"
   }
 ]
