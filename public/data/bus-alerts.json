@@ -1,5 +1,65 @@
 [
   {
+    "id": "x:2093375521568797114",
+    "mode": "bus",
+    "operator": "SBST",
+    "message": "Please be informed that Service 170/170X is back to normal operations.",
+    "postedAt": "2026-08-28T16:29:52.000Z",
+    "source": "X/SBSTransit_Ltd",
+    "raw": {
+      "handle": "SBSTransit_Ltd",
+      "statusId": "2093375521568797114"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-28T18:29:51.908Z",
+    "lastSeenAt": "2026-08-28T18:29:51.908Z"
+  },
+  {
+    "id": "x:2093309148817702985",
+    "mode": "bus",
+    "operator": "SBST",
+    "message": "Please be informed that Services 13, 71, 73, 93, 105, 153, 155 and 159 are back to normal operations.",
+    "postedAt": "2026-08-28T12:06:07.000Z",
+    "source": "X/SBSTransit_Ltd",
+    "raw": {
+      "handle": "SBSTransit_Ltd",
+      "statusId": "2093309148817702985"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-28T18:29:51.908Z",
+    "lastSeenAt": "2026-08-28T18:29:51.908Z"
+  },
+  {
+    "id": "x:2093295884796916029",
+    "mode": "bus",
+    "operator": "SBST",
+    "message": "Please be informed that Services 13, 28, 71, 73, 93, 105, 153, 155 and 159 are being delayed along Braddell Road due to heavy traffic.",
+    "postedAt": "2026-08-28T11:13:25.000Z",
+    "source": "X/SBSTransit_Ltd",
+    "raw": {
+      "handle": "SBSTransit_Ltd",
+      "statusId": "2093295884796916029"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-28T18:29:51.908Z",
+    "lastSeenAt": "2026-08-28T18:29:51.908Z"
+  },
+  {
+    "id": "x:2093218840985714949",
+    "mode": "bus",
+    "operator": "SBST",
+    "message": "Please be informed that Services 80, 86, 87, 102, 372 and 374 are back to normal operations.",
+    "postedAt": "2026-08-28T06:07:16.000Z",
+    "source": "X/SBSTransit_Ltd",
+    "raw": {
+      "handle": "SBSTransit_Ltd",
+      "statusId": "2093218840985714949"
+    },
+    "current": true,
+    "firstSeenAt": "2026-08-28T18:29:51.908Z",
+    "lastSeenAt": "2026-08-28T18:29:51.908Z"
+  },
+  {
     "id": "x:2093207045277438268",
     "mode": "bus",
     "operator": "SBST",
@@ -10,7 +70,7 @@
       "handle": "SBSTransit_Ltd",
       "statusId": "2093207045277438268"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-28T05:34:54.982Z",
     "lastSeenAt": "2026-08-28T05:34:54.982Z"
   },
@@ -25,7 +85,7 @@
       "handle": "SBSTransit_Ltd",
       "statusId": "2093194701813989883"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-28T05:34:54.982Z",
     "lastSeenAt": "2026-08-28T05:34:54.982Z"
   },
@@ -40,7 +100,7 @@
       "handle": "SBSTransit_Ltd",
       "statusId": "2093183462689870232"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-28T05:34:54.982Z",
     "lastSeenAt": "2026-08-28T05:34:54.982Z"
   },
@@ -55,7 +115,7 @@
       "handle": "SBSTransit_Ltd",
       "statusId": "2093166257910714381"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-28T05:34:54.982Z",
     "lastSeenAt": "2026-08-28T05:34:54.982Z"
   },
@@ -132,7 +192,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-26T06:01:43.338Z",
-    "lastSeenAt": "2026-08-28T05:34:54.982Z"
+    "lastSeenAt": "2026-08-28T18:29:51.908Z"
   },
   {
     "id": "x:2092462626379112589",
@@ -177,7 +237,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-26T03:12:23.833Z",
-    "lastSeenAt": "2026-08-28T05:34:54.982Z"
+    "lastSeenAt": "2026-08-28T18:29:51.908Z"
   },
   {
     "id": "x:2092436874002673781",
@@ -372,7 +432,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-24T03:10:44.622Z",
-    "lastSeenAt": "2026-08-28T05:34:54.982Z"
+    "lastSeenAt": "2026-08-28T18:29:51.908Z"
   },
   {
     "id": "x:2091709023603307005",
@@ -387,7 +447,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-24T03:10:44.622Z",
-    "lastSeenAt": "2026-08-28T05:34:54.982Z"
+    "lastSeenAt": "2026-08-28T18:29:51.908Z"
   },
   {
     "id": "x:2091705481882648816",
@@ -642,7 +702,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-28T05:34:54.982Z"
+    "lastSeenAt": "2026-08-28T18:29:51.908Z"
   },
   {
     "id": "x:2090243246241067311",
@@ -657,7 +717,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-28T05:34:54.982Z"
+    "lastSeenAt": "2026-08-28T18:29:51.908Z"
   },
   {
     "id": "x:2090242987133653294",
@@ -672,7 +732,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-28T05:34:54.982Z"
+    "lastSeenAt": "2026-08-28T18:29:51.908Z"
   },
   {
     "id": "x:2090236422733410795",
@@ -717,7 +777,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-28T05:34:54.982Z"
+    "lastSeenAt": "2026-08-28T18:29:51.908Z"
   },
   {
     "id": "x:2088115464509772010",
@@ -732,7 +792,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-28T05:34:54.982Z"
+    "lastSeenAt": "2026-08-28T18:29:51.908Z"
   },
   {
     "id": "x:2087842347489100132",
@@ -747,7 +807,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-28T05:34:54.982Z"
+    "lastSeenAt": "2026-08-28T18:29:51.908Z"
   },
   {
     "id": "x:2087787839761371610",
@@ -777,7 +837,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-28T05:34:54.982Z"
+    "lastSeenAt": "2026-08-28T18:29:51.908Z"
   },
   {
     "id": "x:2084488458983391510",
@@ -822,6 +882,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-28T05:34:54.982Z"
+    "lastSeenAt": "2026-08-28T18:29:51.908Z"
   }
 ]
