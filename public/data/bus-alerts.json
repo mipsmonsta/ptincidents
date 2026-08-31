@@ -10,7 +10,7 @@
       "handle": "SBSTransit_Ltd",
       "statusId": "2094390210922729638"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-31T11:47:19.767Z",
     "lastSeenAt": "2026-08-31T19:03:34.232Z"
   },
@@ -25,7 +25,7 @@
       "handle": "SBSTransit_Ltd",
       "statusId": "2094369212131381618"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-31T11:47:19.767Z",
     "lastSeenAt": "2026-08-31T19:03:34.232Z"
   },
@@ -40,7 +40,7 @@
       "handle": "SBSTransit_Ltd",
       "statusId": "2094312104878899485"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-31T11:47:19.767Z",
     "lastSeenAt": "2026-08-31T19:03:34.232Z"
   },
@@ -55,7 +55,7 @@
       "handle": "SBSTransit_Ltd",
       "statusId": "2094228833700651395"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-31T05:08:25.214Z",
     "lastSeenAt": "2026-08-31T19:03:34.232Z"
   },
@@ -340,7 +340,7 @@
       "handle": "goaheadsg",
       "statusId": "2092483540340572304"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-26T06:01:43.338Z",
     "lastSeenAt": "2026-08-31T19:03:34.232Z"
   },
@@ -385,7 +385,7 @@
       "handle": "towertransitSG",
       "statusId": "2092440572011417901"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-26T03:12:23.833Z",
     "lastSeenAt": "2026-08-31T19:03:34.232Z"
   },
@@ -580,7 +580,7 @@
       "handle": "towertransitSG",
       "statusId": "2091709183221739805"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-24T03:10:44.622Z",
     "lastSeenAt": "2026-08-31T19:03:34.232Z"
   },
@@ -595,7 +595,7 @@
       "handle": "towertransitSG",
       "statusId": "2091709023603307005"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-24T03:10:44.622Z",
     "lastSeenAt": "2026-08-31T19:03:34.232Z"
   },
@@ -850,7 +850,7 @@
       "handle": "towertransitSG",
       "statusId": "2090317284560764978"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
     "lastSeenAt": "2026-08-31T19:03:34.232Z"
   },
@@ -865,7 +865,7 @@
       "handle": "goaheadsg",
       "statusId": "2090243246241067311"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
     "lastSeenAt": "2026-08-31T19:03:34.232Z"
   },
@@ -880,7 +880,7 @@
       "handle": "goaheadsg",
       "statusId": "2090242987133653294"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
     "lastSeenAt": "2026-08-31T19:03:34.232Z"
   },
@@ -925,7 +925,7 @@
       "handle": "goaheadsg",
       "statusId": "2088158087685558768"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
     "lastSeenAt": "2026-08-31T19:03:34.232Z"
   },
@@ -940,7 +940,7 @@
       "handle": "towertransitSG",
       "statusId": "2088115464509772010"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
     "lastSeenAt": "2026-08-31T19:03:34.232Z"
   },
@@ -955,7 +955,7 @@
       "handle": "goaheadsg",
       "statusId": "2087842347489100132"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
     "lastSeenAt": "2026-08-31T19:03:34.232Z"
   },
@@ -985,7 +985,7 @@
       "handle": "SMRT_Singapore",
       "statusId": "2087089130006356121"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
     "lastSeenAt": "2026-08-31T19:03:34.232Z"
   },
@@ -1030,7 +1030,7 @@
       "handle": "SBSTransit_Ltd",
       "statusId": "2082846374190866676"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
     "lastSeenAt": "2026-08-31T19:03:34.232Z"
   }
