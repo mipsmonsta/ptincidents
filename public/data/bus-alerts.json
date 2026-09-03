@@ -885,21 +885,6 @@
     "lastSeenAt": "2026-08-31T19:03:34.232Z"
   },
   {
-    "id": "x:2090236422733410795",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Service 170/170X is being diverted along Woodlands Road (towards BKE) with 4 bus stops skipped (46021, 46031, 46041 and 46051) due to traffic congestion. https://t.co/lDVQ9FLwCf",
-    "postedAt": "2026-08-20T00:36:12.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2090236422733410795"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-20T14:10:21.953Z"
-  },
-  {
     "id": "x:2088158087685558768",
     "mode": "bus",
     "operator": "GAS",
