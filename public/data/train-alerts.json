@@ -1,5 +1,26 @@
 [
   {
+    "id": "09dd4e77a5a2daf465ff05c3197bdae8edc09f75",
+    "status": 1,
+    "incidentType": null,
+    "message": "04/09/2026 07:00-Bus services 3, 9, 12, 17, 19, 21, 29, 34, 37, 39, 53, 59, 81 and 518 are expected to be delayed due to road works along Loyang Avenue (towards Pasir Ris Drive 1) after Tampines Expressway.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-09-04T07:04:05.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "04/09/2026 07:00-Bus services 3, 9, 12, 17, 19, 21, 29, 34, 37, 39, 53, 59, 81 and 518 are expected to be delayed due to road works along Loyang Avenue (towards Pasir Ris Drive 1) after Tampines Expressway.",
+      "CreatedDate": "2026-09-04 07:04:05"
+    },
+    "current": true,
+    "firstSeenAt": "2026-09-03T23:11:23.380Z",
+    "lastSeenAt": "2026-09-03T23:11:23.380Z"
+  },
+  {
     "id": "6b3e3a5001c05f6a16f50b2b47d8b6b1e2c0fc71",
     "status": 1,
     "incidentType": null,
@@ -375,7 +396,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-03T20:52:57.240Z"
+    "lastSeenAt": "2026-09-03T23:11:23.380Z"
   },
   {
     "id": "5c4644341ce84a1b5daeb3650f1586d9446948cb",
@@ -396,6 +417,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-03T20:52:57.240Z"
+    "lastSeenAt": "2026-09-03T23:11:23.380Z"
   }
 ]
