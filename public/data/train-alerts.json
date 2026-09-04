@@ -1,5 +1,26 @@
 [
   {
+    "id": "2e683088d081497ab426cd76e356d60bc10f1632",
+    "status": 1,
+    "incidentType": null,
+    "message": "04/09/2026 17:00-(Update) Bus services 3, 9, 12, 12e, 17, 19, 21, 29, 34, 37, 39, 53, 59, 81, 518 and 661 are expected to be delayed due to urgent repair works along Loyang Avenue (towards Pasir Ris Drive 1) after Tampines Expressway.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-09-04T17:01:18.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "04/09/2026 17:00-(Update) Bus services 3, 9, 12, 12e, 17, 19, 21, 29, 34, 37, 39, 53, 59, 81, 518 and 661 are expected to be delayed due to urgent repair works along Loyang Avenue (towards Pasir Ris Drive 1) after Tampines Expressway.",
+      "CreatedDate": "2026-09-04 17:01:18"
+    },
+    "current": true,
+    "firstSeenAt": "2026-09-04T11:47:39.329Z",
+    "lastSeenAt": "2026-09-04T11:47:39.329Z"
+  },
+  {
     "id": "d5f528530b1ad48682d74a8128f9a528afa23497",
     "status": 1,
     "incidentType": null,
@@ -18,7 +39,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-09-04T01:15:14.733Z",
-    "lastSeenAt": "2026-09-04T06:28:12.056Z"
+    "lastSeenAt": "2026-09-04T11:47:39.329Z"
   },
   {
     "id": "09dd4e77a5a2daf465ff05c3197bdae8edc09f75",
@@ -37,7 +58,7 @@
       "Content": "04/09/2026 07:00-Bus services 3, 9, 12, 17, 19, 21, 29, 34, 37, 39, 53, 59, 81 and 518 are expected to be delayed due to road works along Loyang Avenue (towards Pasir Ris Drive 1) after Tampines Expressway.",
       "CreatedDate": "2026-09-04 07:04:05"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-09-03T23:11:23.380Z",
     "lastSeenAt": "2026-09-04T06:28:12.056Z"
   },
@@ -396,7 +417,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-04T06:28:12.056Z"
+    "lastSeenAt": "2026-09-04T11:47:39.329Z"
   },
   {
     "id": "5c4644341ce84a1b5daeb3650f1586d9446948cb",
@@ -417,6 +438,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-04T06:28:12.056Z"
+    "lastSeenAt": "2026-09-04T11:47:39.329Z"
   }
 ]
