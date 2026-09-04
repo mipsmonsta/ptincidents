@@ -18,7 +18,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-09-04T01:15:14.733Z",
-    "lastSeenAt": "2026-09-04T01:15:14.733Z"
+    "lastSeenAt": "2026-09-04T06:28:12.056Z"
   },
   {
     "id": "09dd4e77a5a2daf465ff05c3197bdae8edc09f75",
@@ -39,7 +39,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-09-03T23:11:23.380Z",
-    "lastSeenAt": "2026-09-04T01:15:14.733Z"
+    "lastSeenAt": "2026-09-04T06:28:12.056Z"
   },
   {
     "id": "6b3e3a5001c05f6a16f50b2b47d8b6b1e2c0fc71",
@@ -378,27 +378,6 @@
     "lastSeenAt": "2026-08-21T15:05:38.365Z"
   },
   {
-    "id": "f84e13acd8a4993436058d4dddaf8f33686b03f7",
-    "status": 1,
-    "incidentType": null,
-    "message": "21/08/2026 09.02 - Bus services 13, 16, 16M, 134, 150, 196 and 196e have been diverted due to vehicle breakdown along Marine Crescent (towards East Coast Road), after bus stop BS 92239 outside Blk 45.",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-08-21T09:12:26.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "21/08/2026 09.02 - Bus services 13, 16, 16M, 134, 150, 196 and 196e have been diverted due to vehicle breakdown along Marine Crescent (towards East Coast Road), after bus stop BS 92239 outside Blk 45.",
-      "CreatedDate": "2026-08-21 09:12:26"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-21T01:46:13.016Z",
-    "lastSeenAt": "2026-08-21T01:46:13.016Z"
-  },
-  {
     "id": "2fface34f4730753e5112c5e0c757ecf646f9b40",
     "status": 1,
     "incidentType": null,
@@ -417,7 +396,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-04T01:15:14.733Z"
+    "lastSeenAt": "2026-09-04T06:28:12.056Z"
   },
   {
     "id": "5c4644341ce84a1b5daeb3650f1586d9446948cb",
@@ -438,6 +417,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-04T01:15:14.733Z"
+    "lastSeenAt": "2026-09-04T06:28:12.056Z"
   }
 ]

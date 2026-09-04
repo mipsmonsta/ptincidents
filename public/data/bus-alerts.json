@@ -780,36 +780,6 @@
     "lastSeenAt": "2026-08-21T16:00:23.614Z"
   },
   {
-    "id": "x:2090409059531022624",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Services 161 and 168 are back to normal operations.",
-    "postedAt": "2026-08-20T12:02:12.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2090409059531022624"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-20T13:02:26.719Z",
-    "lastSeenAt": "2026-08-21T01:46:13.016Z"
-  },
-  {
-    "id": "x:2090348058039210049",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Services 161 and 168 are being delayed along SLE (towards CTE) due to an accident.",
-    "postedAt": "2026-08-20T07:59:48.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2090348058039210049"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-21T01:46:13.016Z"
-  },
-  {
     "id": "x:2090331182131200157",
     "mode": "bus",
     "operator": "TTS",
