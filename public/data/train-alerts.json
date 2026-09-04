@@ -16,7 +16,7 @@
       "Content": "04/09/2026 17:00-(Update) Bus services 3, 9, 12, 12e, 17, 19, 21, 29, 34, 37, 39, 53, 59, 81, 518 and 661 are expected to be delayed due to urgent repair works along Loyang Avenue (towards Pasir Ris Drive 1) after Tampines Expressway.",
       "CreatedDate": "2026-09-04 17:01:18"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-09-04T11:47:39.329Z",
     "lastSeenAt": "2026-09-04T11:47:39.329Z"
   },
@@ -39,7 +39,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-09-04T01:15:14.733Z",
-    "lastSeenAt": "2026-09-04T11:47:39.329Z"
+    "lastSeenAt": "2026-09-04T16:11:19.505Z"
   },
   {
     "id": "09dd4e77a5a2daf465ff05c3197bdae8edc09f75",
@@ -378,27 +378,6 @@
     "lastSeenAt": "2026-08-22T10:30:32.337Z"
   },
   {
-    "id": "ef07980de270266bd6d5dcb64617632d98115a4c",
-    "status": 1,
-    "incidentType": null,
-    "message": "21/08/2026 10:00-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-08-21T10:01:13.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "21/08/2026 10:00-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
-      "CreatedDate": "2026-08-21 10:01:13"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-21T03:09:54.527Z",
-    "lastSeenAt": "2026-08-21T15:05:38.365Z"
-  },
-  {
     "id": "2fface34f4730753e5112c5e0c757ecf646f9b40",
     "status": 1,
     "incidentType": null,
@@ -417,7 +396,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-04T11:47:39.329Z"
+    "lastSeenAt": "2026-09-04T16:11:19.505Z"
   },
   {
     "id": "5c4644341ce84a1b5daeb3650f1586d9446948cb",
@@ -438,6 +417,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-04T11:47:39.329Z"
+    "lastSeenAt": "2026-09-04T16:11:19.505Z"
   }
 ]
