@@ -810,21 +810,6 @@
     "lastSeenAt": "2026-08-21T01:46:13.016Z"
   },
   {
-    "id": "x:2090339322474189283",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Several bus services will be affected by road closures for road resurfacing works at the city centre. This will be on 23 August 2026, from 10pm to the end of bus operations, as well as 24 and 25 August 2026, from 11pm to the end of bus operations. https://t.co/s4s1GObwOf",
-    "postedAt": "2026-08-20T07:25:05.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2090339322474189283"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-20T23:32:21.165Z"
-  },
-  {
     "id": "x:2090331182131200157",
     "mode": "bus",
     "operator": "TTS",
