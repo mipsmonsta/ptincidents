@@ -750,21 +750,6 @@
     "lastSeenAt": "2026-08-22T10:30:32.337Z"
   },
   {
-    "id": "x:2090608588398198816",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Services 13, 16/16M, 134, 150 and 196 are skipping the bus stop along Marine Crescent, in front of Blk 45 (92239) due to a vehicle breakdown. https://t.co/zzstAA9hTI",
-    "postedAt": "2026-08-21T01:15:03.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2090608588398198816"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-21T01:46:13.016Z",
-    "lastSeenAt": "2026-08-21T23:30:27.450Z"
-  },
-  {
     "id": "x:2090331182131200157",
     "mode": "bus",
     "operator": "TTS",
