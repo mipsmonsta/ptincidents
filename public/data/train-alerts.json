@@ -1,5 +1,26 @@
 [
   {
+    "id": "d71733ec1ebca971b1636fc98816d684b0782947",
+    "status": 1,
+    "incidentType": null,
+    "message": "05/09/2026 09:05-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-09-05T09:08:18.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "05/09/2026 09:05-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+      "CreatedDate": "2026-09-05 09:08:18"
+    },
+    "current": true,
+    "firstSeenAt": "2026-09-05T04:04:53.290Z",
+    "lastSeenAt": "2026-09-05T04:04:53.290Z"
+  },
+  {
     "id": "2e683088d081497ab426cd76e356d60bc10f1632",
     "status": 1,
     "incidentType": null,
@@ -394,7 +415,7 @@
       "Content": "23:30-DTL-Planned Service Adjustments. From 10 Jul to 5 Sep 2026, Downtown Line services will end at 11.30pm on Friday nights and commence at 8.30am on Saturday mornings. Please use alternative MRT lines and bus services.",
       "CreatedDate": "2026-07-09 20:00:20"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
     "lastSeenAt": "2026-09-04T23:53:33.497Z"
   },
@@ -417,6 +438,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-04T23:53:33.497Z"
+    "lastSeenAt": "2026-09-05T04:04:53.290Z"
   }
 ]
