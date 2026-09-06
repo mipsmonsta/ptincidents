@@ -675,21 +675,6 @@
     "lastSeenAt": "2026-08-24T01:46:39.926Z"
   },
   {
-    "id": "x:2091122149272830215",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Service 170/170X is back to normal operations.",
-    "postedAt": "2026-08-22T11:15:46.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2091122149272830215"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-22T11:27:02.317Z",
-    "lastSeenAt": "2026-08-23T11:50:31.608Z"
-  },
-  {
     "id": "x:2090331182131200157",
     "mode": "bus",
     "operator": "TTS",
