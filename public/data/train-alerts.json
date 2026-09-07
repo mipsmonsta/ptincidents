@@ -16,7 +16,7 @@
       "Content": "07/09/2026 10:17-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
       "CreatedDate": "2026-09-07 10:19:31"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-09-07T04:12:17.734Z",
     "lastSeenAt": "2026-09-07T09:37:33.279Z"
   },
@@ -357,48 +357,6 @@
     "lastSeenAt": "2026-08-25T13:03:39.825Z"
   },
   {
-    "id": "849d8090594b2d607f3fbe9cf1254c716dde1b8b",
-    "status": 1,
-    "incidentType": null,
-    "message": "24/08/2026 10:29-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-08-24T10:32:47.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "24/08/2026 10:29-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
-      "CreatedDate": "2026-08-24 10:32:47"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-24T03:10:44.622Z",
-    "lastSeenAt": "2026-08-24T15:11:44.202Z"
-  },
-  {
-    "id": "30641cff9657bbffc62b4edbb57c31864695a4f8",
-    "status": 1,
-    "incidentType": null,
-    "message": "24/08/2026 05:30-Bus services 10, 10e, 12, 14, 14e, 31, 32, 36, 36B, 40, 43, 43e, 48, 134, 196, 196e and 197 are expected to be delayed due to road works on Mountbatten Road (towards Changi) after Tanjong Katong Road.",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-08-24T05:30:10.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "24/08/2026 05:30-Bus services 10, 10e, 12, 14, 14e, 31, 32, 36, 36B, 40, 43, 43e, 48, 134, 196, 196e and 197 are expected to be delayed due to road works on Mountbatten Road (towards Changi) after Tanjong Katong Road.",
-      "CreatedDate": "2026-08-24 05:30:10"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-23T21:51:31.111Z",
-    "lastSeenAt": "2026-08-24T13:03:35.565Z"
-  },
-  {
     "id": "2fface34f4730753e5112c5e0c757ecf646f9b40",
     "status": 1,
     "incidentType": null,
@@ -438,6 +396,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-07T09:37:33.279Z"
+    "lastSeenAt": "2026-09-07T15:42:51.119Z"
   }
 ]

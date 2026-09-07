@@ -615,36 +615,6 @@
     "lastSeenAt": "2026-08-24T23:51:36.160Z"
   },
   {
-    "id": "x:2091498759763197952",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Service 157 is back to normal operations.",
-    "postedAt": "2026-08-23T12:12:17.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2091498759763197952"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-23T12:53:17.239Z",
-    "lastSeenAt": "2026-08-24T11:35:56.579Z"
-  },
-  {
-    "id": "x:2091487247631798310",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Service 157 is being diverted from its regular route along Jln Boon Lay (towards Jurong West Ave 2) due to an accident. However, no bus stops will be skipped.",
-    "postedAt": "2026-08-23T11:26:32.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2091487247631798310"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-23T11:26:45.593Z",
-    "lastSeenAt": "2026-08-24T10:47:36.450Z"
-  },
-  {
     "id": "x:2090317284560764978",
     "mode": "bus",
     "operator": "TTS",
