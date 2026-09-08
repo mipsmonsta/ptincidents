@@ -525,51 +525,6 @@
     "lastSeenAt": "2026-08-25T08:10:23.032Z"
   },
   {
-    "id": "x:2091870599413174708",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Services 74, 93, 157, 165 and 852 are back to normal operations.",
-    "postedAt": "2026-08-24T12:49:50.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2091870599413174708"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-24T13:03:35.565Z",
-    "lastSeenAt": "2026-08-25T03:06:08.368Z"
-  },
-  {
-    "id": "x:2091845760799371411",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Services 74, 93, 157, 165 and 852 are being delayed along Adam Road (towards Lornie Road) due to an accident.",
-    "postedAt": "2026-08-24T11:11:08.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2091845760799371411"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-24T11:35:56.579Z",
-    "lastSeenAt": "2026-08-25T01:41:17.185Z"
-  },
-  {
-    "id": "x:2091723875310764037",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Services 13, 100/100A, 107, 133, 135, 142, 146, 147/147A, 155 and 506 are back to normal operations.",
-    "postedAt": "2026-08-24T03:06:48.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2091723875310764037"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-24T03:10:44.622Z",
-    "lastSeenAt": "2026-08-25T01:41:17.185Z"
-  },
-  {
     "id": "x:2091709183221739805",
     "mode": "bus",
     "operator": "TTS",

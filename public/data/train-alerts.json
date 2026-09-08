@@ -1,5 +1,47 @@
 [
   {
+    "id": "eacb8243b2619334930a5850a7b81d53869bf79e",
+    "status": 1,
+    "incidentType": null,
+    "message": "08/09/2026 12:41-Bus services 30 and 201 have been diverted due to road closure along Penjuru Road between Teban Gardens Crescent and West Coast Road.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-09-08T12:54:03.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "08/09/2026 12:41-Bus services 30 and 201 have been diverted due to road closure along Penjuru Road between Teban Gardens Crescent and West Coast Road.",
+      "CreatedDate": "2026-09-08 12:54:03"
+    },
+    "current": true,
+    "firstSeenAt": "2026-09-08T06:27:41.539Z",
+    "lastSeenAt": "2026-09-08T06:27:41.539Z"
+  },
+  {
+    "id": "5ccfdd595f7946e1893ad06dd80dcd7a296a3957",
+    "status": 1,
+    "incidentType": null,
+    "message": "08/09/2026 10:33-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-09-08T10:35:37.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "08/09/2026 10:33-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+      "CreatedDate": "2026-09-08 10:35:37"
+    },
+    "current": true,
+    "firstSeenAt": "2026-09-08T06:27:41.539Z",
+    "lastSeenAt": "2026-09-08T06:27:41.539Z"
+  },
+  {
     "id": "27d1dbc179e4b2020c86c50d4c14b638466a4146",
     "status": 1,
     "incidentType": null,
@@ -315,27 +357,6 @@
     "lastSeenAt": "2026-08-26T01:46:58.825Z"
   },
   {
-    "id": "0c38a2f1f49957fe525163dc797124d723308fdb",
-    "status": 1,
-    "incidentType": null,
-    "message": "25/08/2026 11.20 - Bus services 78 and 79 are delayed by up to 30 minutes due to road works along Penjuru Road (towards West Coast Road) after bus stop (BS 29031).",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-08-25T11:22:59.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "25/08/2026 11.20 - Bus services 78 and 79 are delayed by up to 30 minutes due to road works along Penjuru Road (towards West Coast Road) after bus stop (BS 29031).",
-      "CreatedDate": "2026-08-25 11:22:59"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-25T04:10:40.825Z",
-    "lastSeenAt": "2026-08-25T04:10:40.825Z"
-  },
-  {
     "id": "1bdc613776731bbb8760d00e07eb9e365fa4968d",
     "status": 1,
     "incidentType": null,
@@ -396,6 +417,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-08T01:04:54.574Z"
+    "lastSeenAt": "2026-09-08T06:27:41.539Z"
   }
 ]
