@@ -600,21 +600,6 @@
     "lastSeenAt": "2026-08-31T19:03:34.232Z"
   },
   {
-    "id": "x:2091705481882648816",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Services 13, 100/100A, 107, 133, 135, 142, 146, 147/147A, 155 and 506 are being delayed along Upper Serangoon Road (towards Bendemeer Road) due to traffic congestion.",
-    "postedAt": "2026-08-24T01:53:43.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2091705481882648816"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-24T03:10:44.622Z",
-    "lastSeenAt": "2026-08-24T23:51:36.160Z"
-  },
-  {
     "id": "x:2090317284560764978",
     "mode": "bus",
     "operator": "TTS",
