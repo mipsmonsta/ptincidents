@@ -405,81 +405,6 @@
     "lastSeenAt": "2026-08-26T14:20:27.361Z"
   },
   {
-    "id": "x:2092431626483691586",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Services 161 and 168 are being delayed along SLE (towards CTE) due to an accident.",
-    "postedAt": "2026-08-26T01:59:09.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2092431626483691586"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-26T03:12:23.833Z",
-    "lastSeenAt": "2026-08-26T06:01:43.338Z"
-  },
-  {
-    "id": "x:2092244867674206350",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Service 170/170X is back to normal operations.",
-    "postedAt": "2026-08-25T13:37:03.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2092244867674206350"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-25T14:22:05.816Z",
-    "lastSeenAt": "2026-08-26T03:12:23.833Z"
-  },
-  {
-    "id": "x:2092208814103900210",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Services 5 and 59 are back to normal operations.",
-    "postedAt": "2026-08-25T11:13:47.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2092208814103900210"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-25T11:56:31.071Z",
-    "lastSeenAt": "2026-08-26T03:12:23.833Z"
-  },
-  {
-    "id": "x:2092173159026024523",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Services 5 and 59 are being delayed along PIE (towards Tuas) due to heavy traffic.",
-    "postedAt": "2026-08-25T08:52:06.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2092173159026024523"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-25T09:10:25.761Z",
-    "lastSeenAt": "2026-08-26T01:46:58.825Z"
-  },
-  {
-    "id": "x:2092090173366718959",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Services 161 and 168 are back to normal operations.",
-    "postedAt": "2026-08-25T03:22:21.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2092090173366718959"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-25T04:10:40.825Z",
-    "lastSeenAt": "2026-08-26T01:46:58.825Z"
-  },
-  {
     "id": "x:2091709183221739805",
     "mode": "bus",
     "operator": "TTS",
@@ -600,21 +525,6 @@
     "lastSeenAt": "2026-08-31T19:03:34.232Z"
   },
   {
-    "id": "x:2087787839761371610",
-    "mode": "bus",
-    "operator": "TTS",
-    "message": "On 15 August 2026, from 4pm to 8pm, there will be a temporary route diversion for the buses shown in the poster due to the UOB Heartbeat Run/Walk. Please plan your journey accordingly. You can view the high-res image here: https://t.co/6CfBfmAh8m",
-    "postedAt": "2026-08-13T06:26:24.000Z",
-    "source": "X/towertransitSG",
-    "raw": {
-      "handle": "towertransitSG",
-      "statusId": "2087787839761371610"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-26T01:46:58.825Z"
-  },
-  {
     "id": "x:2087089130006356121",
     "mode": "bus",
     "operator": "SMRT",
@@ -628,21 +538,6 @@
     "current": false,
     "firstSeenAt": "2026-08-20T09:37:04.692Z",
     "lastSeenAt": "2026-08-31T19:03:34.232Z"
-  },
-  {
-    "id": "x:2084488458983391510",
-    "mode": "bus",
-    "operator": "GAS",
-    "message": "There will be a temporary route diversion due to the Paya Lebar National Day Carnival 2026. Pls refer to the poster for the affected bus services that will skip the following bus stop. The diversion will happen on Sat, 8 Aug 26, 12pm to 10pm. #GoAheadSG",
-    "postedAt": "2026-08-04T03:55:51.000Z",
-    "source": "X/goaheadsg",
-    "raw": {
-      "handle": "goaheadsg",
-      "statusId": "2084488458983391510"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-20T09:37:04.692Z",
-    "lastSeenAt": "2026-08-26T05:07:27.146Z"
   },
   {
     "id": "x:2082846374190866676",
