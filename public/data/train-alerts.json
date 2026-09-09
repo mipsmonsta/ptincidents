@@ -16,7 +16,7 @@
       "Content": "09/09/2026 13:45-Bus services 56, 57, 131, 141, 166, 851 and 980 have been diverted due to vehicle breakdown along Thomson Road (towards Bukit Timah Road) after Newton Road.",
       "CreatedDate": "2026-09-09 14:04:12"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-09-09T06:33:47.300Z",
     "lastSeenAt": "2026-09-09T06:33:47.300Z"
   },
@@ -39,7 +39,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-09-09T06:33:47.300Z",
-    "lastSeenAt": "2026-09-09T06:33:47.300Z"
+    "lastSeenAt": "2026-09-09T12:16:09.948Z"
   },
   {
     "id": "eacb8243b2619334930a5850a7b81d53869bf79e",
@@ -396,6 +396,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-09T06:33:47.300Z"
+    "lastSeenAt": "2026-09-09T12:16:09.948Z"
   }
 ]
