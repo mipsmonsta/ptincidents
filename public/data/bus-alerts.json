@@ -360,21 +360,6 @@
     "lastSeenAt": "2026-08-27T11:06:02.859Z"
   },
   {
-    "id": "x:2092457224392372237",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Services 87 and 151 are skipping the bus stop along Hougang Ave 5, in front of Blk 308 (64241) due to a vehicle breakdown. https://t.co/zzstAA9hTI",
-    "postedAt": "2026-08-26T03:40:52.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2092457224392372237"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-26T04:11:52.419Z",
-    "lastSeenAt": "2026-08-26T20:59:01.547Z"
-  },
-  {
     "id": "x:2092440572011417901",
     "mode": "bus",
     "operator": "TTS",
