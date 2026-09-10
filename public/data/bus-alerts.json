@@ -270,66 +270,6 @@
     "lastSeenAt": "2026-08-28T05:34:54.982Z"
   },
   {
-    "id": "x:2093006074769289504",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Service 170/170X is back to normal operations.",
-    "postedAt": "2026-08-27T16:01:49.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2093006074769289504"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-27T21:07:24.440Z",
-    "lastSeenAt": "2026-08-27T21:07:24.440Z"
-  },
-  {
-    "id": "x:2092774948226154732",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Service 170/170X is being diverted along Woodlands Road (towards BKE) with 4 bus stops skipped (46021, 46031, 46041 and 46051) due to traffic congestion. https://t.co/zzstAA9hTI",
-    "postedAt": "2026-08-27T00:43:24.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2092774948226154732"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-27T11:06:02.859Z",
-    "lastSeenAt": "2026-08-27T21:07:24.440Z"
-  },
-  {
-    "id": "x:2092637083743731774",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Service 170/170X is back to normal operations.",
-    "postedAt": "2026-08-26T15:35:34.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2092637083743731774"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-26T16:02:34.574Z",
-    "lastSeenAt": "2026-08-27T21:07:24.440Z"
-  },
-  {
-    "id": "x:2092499717343314202",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "From Saturday, 29 August 2026, Boarding Berth 2 (Services 159 and 163) will be relocated within Sengkang Bus Interchange due to ongoing upgrading works. https://t.co/Ho8q2avW6n",
-    "postedAt": "2026-08-26T06:29:44.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2092499717343314202"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-26T07:27:57.821Z",
-    "lastSeenAt": "2026-08-27T21:07:24.440Z"
-  },
-  {
     "id": "x:2092483540340572304",
     "mode": "bus",
     "operator": "GAS",
