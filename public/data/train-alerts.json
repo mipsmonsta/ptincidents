@@ -16,7 +16,7 @@
       "Content": "10/09/2026 17:55-Bus services 3, 9, 12, 17, 19, 21, 34, 39, 44, 53, 53, 59, 81, 89e, 110, 518 and 858 are delayed by up to 23 minutes due to an accident along TPE (towards SLE) after Pasir Ris Drive 8.",
       "CreatedDate": "2026-09-10 17:56:29"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-09-10T09:59:18.218Z",
     "lastSeenAt": "2026-09-10T09:59:18.218Z"
   },
@@ -39,7 +39,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-09-10T05:10:54.408Z",
-    "lastSeenAt": "2026-09-10T09:59:18.218Z"
+    "lastSeenAt": "2026-09-10T14:20:05.018Z"
   },
   {
     "id": "3b135bafdb117ecaf8b7dff7673e51fd75b49877",
@@ -357,27 +357,6 @@
     "lastSeenAt": "2026-08-28T05:34:54.982Z"
   },
   {
-    "id": "99fd28bf083d10ab4937c6cb934410816cb2f37d",
-    "status": 1,
-    "incidentType": null,
-    "message": "27/08/2026 08:42-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-08-27T08:47:01.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "27/08/2026 08:42-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
-      "CreatedDate": "2026-08-27 08:47:01"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-27T11:06:02.859Z",
-    "lastSeenAt": "2026-08-27T11:06:02.859Z"
-  },
-  {
     "id": "2fface34f4730753e5112c5e0c757ecf646f9b40",
     "status": 1,
     "incidentType": null,
@@ -417,6 +396,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-10T09:59:18.218Z"
+    "lastSeenAt": "2026-09-10T14:20:05.018Z"
   }
 ]

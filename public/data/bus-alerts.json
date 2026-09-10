@@ -345,21 +345,6 @@
     "lastSeenAt": "2026-08-31T19:03:34.232Z"
   },
   {
-    "id": "x:2092462626379112589",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Services 87 and 151 are back to normal operations.",
-    "postedAt": "2026-08-26T04:02:20.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2092462626379112589"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-26T04:11:52.419Z",
-    "lastSeenAt": "2026-08-27T11:06:02.859Z"
-  },
-  {
     "id": "x:2092440572011417901",
     "mode": "bus",
     "operator": "TTS",
