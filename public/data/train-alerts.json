@@ -1,5 +1,26 @@
 [
   {
+    "id": "68cee34bcb2e10280838242eba1ea4c72f066978",
+    "status": 1,
+    "incidentType": null,
+    "message": "11/09/2026 10:08-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-09-11T10:11:32.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "11/09/2026 10:08-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+      "CreatedDate": "2026-09-11 10:11:32"
+    },
+    "current": true,
+    "firstSeenAt": "2026-09-11T06:34:10.072Z",
+    "lastSeenAt": "2026-09-11T06:34:10.072Z"
+  },
+  {
     "id": "db3f0d0135e2371321274063b2ea7477c0600604",
     "status": 1,
     "incidentType": null,
@@ -336,27 +357,6 @@
     "lastSeenAt": "2026-08-29T08:54:38.166Z"
   },
   {
-    "id": "694e338503eb11b39534de61070ec5f4d330b20a",
-    "status": 1,
-    "incidentType": null,
-    "message": "28/08/2026 10:14-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-08-28T10:18:10.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "28/08/2026 10:14-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
-      "CreatedDate": "2026-08-28 10:18:10"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-28T05:34:54.982Z",
-    "lastSeenAt": "2026-08-28T05:34:54.982Z"
-  },
-  {
     "id": "2fface34f4730753e5112c5e0c757ecf646f9b40",
     "status": 1,
     "incidentType": null,
@@ -396,6 +396,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-11T01:23:33.539Z"
+    "lastSeenAt": "2026-09-11T06:34:10.072Z"
   }
 ]
