@@ -195,21 +195,6 @@
     "lastSeenAt": "2026-08-29T08:54:38.166Z"
   },
   {
-    "id": "x:2093218840985714949",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Services 80, 86, 87, 102, 372 and 374 are back to normal operations.",
-    "postedAt": "2026-08-28T06:07:16.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2093218840985714949"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-28T18:29:51.908Z",
-    "lastSeenAt": "2026-08-28T18:29:51.908Z"
-  },
-  {
     "id": "x:2092483540340572304",
     "mode": "bus",
     "operator": "GAS",
