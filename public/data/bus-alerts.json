@@ -180,21 +180,6 @@
     "lastSeenAt": "2026-08-30T01:34:36.175Z"
   },
   {
-    "id": "x:2093295884796916029",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Services 13, 28, 71, 73, 93, 105, 153, 155 and 159 are being delayed along Braddell Road due to heavy traffic.",
-    "postedAt": "2026-08-28T11:13:25.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2093295884796916029"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-28T18:29:51.908Z",
-    "lastSeenAt": "2026-08-29T08:54:38.166Z"
-  },
-  {
     "id": "x:2092483540340572304",
     "mode": "bus",
     "operator": "GAS",
