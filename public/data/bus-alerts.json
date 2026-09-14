@@ -105,66 +105,6 @@
     "lastSeenAt": "2026-08-31T05:08:25.214Z"
   },
   {
-    "id": "x:2093963889721712766",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Pls note that Service 53 will be diverted from its regular route along TPE (towards SLE) due to roadworks on 1-5, 7-12, 14-18, 21-25 &amp; 28-30 Sep 2026 from 10pm to the end of operations. However, no bus stops will be skipped.",
-    "postedAt": "2026-08-30T07:27:49.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2093963889721712766"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-30T08:12:01.646Z",
-    "lastSeenAt": "2026-08-30T23:46:43.033Z"
-  },
-  {
-    "id": "x:2093688879664755021",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Service 170/170X is back to normal operations.",
-    "postedAt": "2026-08-29T13:15:02.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2093688879664755021"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-29T14:21:37.702Z",
-    "lastSeenAt": "2026-08-30T23:46:43.033Z"
-  },
-  {
-    "id": "x:2093493888266989796",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Service 170/170X is being diverted along Woodlands Road (towards BKE) with 4 bus stops skipped (46021, 46031, 46041 and 46051) due to traffic congestion. https://t.co/zzstAA9hTI",
-    "postedAt": "2026-08-29T00:20:12.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2093493888266989796"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-29T01:54:21.972Z",
-    "lastSeenAt": "2026-08-30T23:46:43.033Z"
-  },
-  {
-    "id": "x:2093375521568797114",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Service 170/170X is back to normal operations.",
-    "postedAt": "2026-08-28T16:29:52.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2093375521568797114"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-28T18:29:51.908Z",
-    "lastSeenAt": "2026-08-30T23:46:43.033Z"
-  },
-  {
     "id": "x:2092483540340572304",
     "mode": "bus",
     "operator": "GAS",
