@@ -60,51 +60,6 @@
     "lastSeenAt": "2026-08-31T19:03:34.232Z"
   },
   {
-    "id": "x:2094227846378254801",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Services 13, 16/16M, 48, 55, 134, 135, 196/196A, 196e and 197 are back to normal operations.",
-    "postedAt": "2026-08-31T00:56:42.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2094227846378254801"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-31T05:08:25.214Z",
-    "lastSeenAt": "2026-08-31T05:08:25.214Z"
-  },
-  {
-    "id": "x:2094213567973396703",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Services 123/123M and 131 are delayed along Bt Purmei Ave due to heavy traffic.",
-    "postedAt": "2026-08-30T23:59:57.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2094213567973396703"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-31T05:08:25.214Z",
-    "lastSeenAt": "2026-08-31T05:08:25.214Z"
-  },
-  {
-    "id": "x:2094212113128726640",
-    "mode": "bus",
-    "operator": "SBST",
-    "message": "Please be informed that Services 13, 16/16M, 48, 55, 134, 135, 196/196A, 196e and 197 are being delayed along Marine Parade Rd (towards Amber Rd) due to heavy traffic.",
-    "postedAt": "2026-08-30T23:54:11.000Z",
-    "source": "X/SBSTransit_Ltd",
-    "raw": {
-      "handle": "SBSTransit_Ltd",
-      "statusId": "2094212113128726640"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-31T05:08:25.214Z",
-    "lastSeenAt": "2026-08-31T05:08:25.214Z"
-  },
-  {
     "id": "x:2092483540340572304",
     "mode": "bus",
     "operator": "GAS",
