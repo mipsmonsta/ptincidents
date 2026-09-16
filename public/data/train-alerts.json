@@ -16,7 +16,7 @@
       "Content": "16/09/2026 11:35-Bus services 3, 4, 9, 12, 12e, 17, 19, 21, 29, 39, 53, 59, 81 and 518 are delayed by up to 20 minutes, due to an accident along Loyang Avenue (towards Tampines Expressway) after Old Tampines Road.",
       "CreatedDate": "2026-09-16 11:37:12"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-09-16T04:29:34.579Z",
     "lastSeenAt": "2026-09-16T04:29:34.579Z"
   },
@@ -378,27 +378,6 @@
     "lastSeenAt": "2026-09-03T04:14:06.092Z"
   },
   {
-    "id": "8333339558ade7cfdca8c7f741bb17288463ce83",
-    "status": 1,
-    "incidentType": null,
-    "message": "02/09/2026 09:59-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-09-02T10:00:49.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "02/09/2026 09:59-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
-      "CreatedDate": "2026-09-02 10:00:49"
-    },
-    "current": false,
-    "firstSeenAt": "2026-09-02T05:40:12.859Z",
-    "lastSeenAt": "2026-09-02T05:40:12.859Z"
-  },
-  {
     "id": "2fface34f4730753e5112c5e0c757ecf646f9b40",
     "status": 1,
     "incidentType": null,
@@ -438,6 +417,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-16T04:29:34.579Z"
+    "lastSeenAt": "2026-09-16T09:28:43.142Z"
   }
 ]
