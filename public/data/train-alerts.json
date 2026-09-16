@@ -1,5 +1,26 @@
 [
   {
+    "id": "4270c500fa1d28fc2b986fdbcb67d10d5685ff85",
+    "status": 1,
+    "incidentType": null,
+    "message": "16/09/2026 11:35-Bus services 3, 4, 9, 12, 12e, 17, 19, 21, 29, 39, 53, 59, 81 and 518 are delayed by up to 20 minutes, due to an accident along Loyang Avenue (towards Tampines Expressway) after Old Tampines Road.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-09-16T11:37:12.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "16/09/2026 11:35-Bus services 3, 4, 9, 12, 12e, 17, 19, 21, 29, 39, 53, 59, 81 and 518 are delayed by up to 20 minutes, due to an accident along Loyang Avenue (towards Tampines Expressway) after Old Tampines Road.",
+      "CreatedDate": "2026-09-16 11:37:12"
+    },
+    "current": true,
+    "firstSeenAt": "2026-09-16T04:29:34.579Z",
+    "lastSeenAt": "2026-09-16T04:29:34.579Z"
+  },
+  {
     "id": "962e95108b64f81b3e7c0d1534fffb82467dafd3",
     "status": 1,
     "incidentType": null,
@@ -417,6 +438,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-15T23:38:03.436Z"
+    "lastSeenAt": "2026-09-16T04:29:34.579Z"
   }
 ]
