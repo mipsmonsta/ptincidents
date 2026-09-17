@@ -16,7 +16,7 @@
       "Content": "17/09/2026 18:02-Bus services 5, 23, 59, 518 and 966 are delayed by up to 20 minutes, due to vehicle breakdown on PIE (towards Changi) after Jalan Eunos.",
       "CreatedDate": "2026-09-17 18:03:32"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-09-17T10:20:23.290Z",
     "lastSeenAt": "2026-09-17T10:20:23.290Z"
   },
@@ -37,7 +37,7 @@
       "Content": "17/09/2026 16:22-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
       "CreatedDate": "2026-09-17 16:23:37"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-09-17T10:20:23.290Z",
     "lastSeenAt": "2026-09-17T10:20:23.290Z"
   },
@@ -399,27 +399,6 @@
     "lastSeenAt": "2026-09-04T06:28:12.056Z"
   },
   {
-    "id": "6b3e3a5001c05f6a16f50b2b47d8b6b1e2c0fc71",
-    "status": 1,
-    "incidentType": null,
-    "message": "03/09/2026 20:21-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-09-03T20:25:14.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "03/09/2026 20:21-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
-      "CreatedDate": "2026-09-03 20:25:14"
-    },
-    "current": false,
-    "firstSeenAt": "2026-09-03T13:48:52.227Z",
-    "lastSeenAt": "2026-09-03T13:48:52.227Z"
-  },
-  {
     "id": "2fface34f4730753e5112c5e0c757ecf646f9b40",
     "status": 1,
     "incidentType": null,
@@ -459,6 +438,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-17T10:20:23.290Z"
+    "lastSeenAt": "2026-09-17T15:15:58.046Z"
   }
 ]
