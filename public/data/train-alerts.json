@@ -1,5 +1,26 @@
 [
   {
+    "id": "fbf8f47a0b7effe3a191000ee0e7ecb75d88ed66",
+    "status": 1,
+    "incidentType": null,
+    "message": "05:00-BP-Planned Service Adjustments. Bukit Panjang LRT will be closed on 20 Sep and 27 Sep 2026 (Sundays) to facilitate renewal works. Please use shuttle and regular bus services.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-09-18T20:06:30.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "05:00-BP-Planned Service Adjustments. Bukit Panjang LRT will be closed on 20 Sep and 27 Sep 2026 (Sundays) to facilitate renewal works. Please use shuttle and regular bus services.",
+      "CreatedDate": "2026-09-18 20:06:30"
+    },
+    "current": true,
+    "firstSeenAt": "2026-09-18T15:06:26.511Z",
+    "lastSeenAt": "2026-09-18T15:06:26.511Z"
+  },
+  {
     "id": "1508c7d6750db2706a2b956f6ea7e2807841fc7c",
     "status": 1,
     "incidentType": null,
@@ -18,7 +39,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-09-18T11:00:31.154Z",
-    "lastSeenAt": "2026-09-18T11:00:31.154Z"
+    "lastSeenAt": "2026-09-18T15:06:26.511Z"
   },
   {
     "id": "b321db95c77bf1955980c3b01a486c6b68a7a262",
@@ -357,27 +378,6 @@
     "lastSeenAt": "2026-09-05T12:33:05.207Z"
   },
   {
-    "id": "2e683088d081497ab426cd76e356d60bc10f1632",
-    "status": 1,
-    "incidentType": null,
-    "message": "04/09/2026 17:00-(Update) Bus services 3, 9, 12, 12e, 17, 19, 21, 29, 34, 37, 39, 53, 59, 81, 518 and 661 are expected to be delayed due to urgent repair works along Loyang Avenue (towards Pasir Ris Drive 1) after Tampines Expressway.",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-09-04T17:01:18.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "04/09/2026 17:00-(Update) Bus services 3, 9, 12, 12e, 17, 19, 21, 29, 34, 37, 39, 53, 59, 81, 518 and 661 are expected to be delayed due to urgent repair works along Loyang Avenue (towards Pasir Ris Drive 1) after Tampines Expressway.",
-      "CreatedDate": "2026-09-04 17:01:18"
-    },
-    "current": false,
-    "firstSeenAt": "2026-09-04T11:47:39.329Z",
-    "lastSeenAt": "2026-09-04T11:47:39.329Z"
-  },
-  {
     "id": "d5f528530b1ad48682d74a8128f9a528afa23497",
     "status": 1,
     "incidentType": null,
@@ -438,6 +438,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-18T11:00:31.154Z"
+    "lastSeenAt": "2026-09-18T15:06:26.511Z"
   }
 ]
