@@ -1,5 +1,26 @@
 [
   {
+    "id": "1508c7d6750db2706a2b956f6ea7e2807841fc7c",
+    "status": 1,
+    "incidentType": null,
+    "message": "18/09/2026 17:35-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-09-18T17:33:27.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "18/09/2026 17:35-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+      "CreatedDate": "2026-09-18 17:33:27"
+    },
+    "current": true,
+    "firstSeenAt": "2026-09-18T11:00:31.154Z",
+    "lastSeenAt": "2026-09-18T11:00:31.154Z"
+  },
+  {
     "id": "b321db95c77bf1955980c3b01a486c6b68a7a262",
     "status": 1,
     "incidentType": null,
@@ -378,27 +399,6 @@
     "lastSeenAt": "2026-09-04T16:11:19.505Z"
   },
   {
-    "id": "09dd4e77a5a2daf465ff05c3197bdae8edc09f75",
-    "status": 1,
-    "incidentType": null,
-    "message": "04/09/2026 07:00-Bus services 3, 9, 12, 17, 19, 21, 29, 34, 37, 39, 53, 59, 81 and 518 are expected to be delayed due to road works along Loyang Avenue (towards Pasir Ris Drive 1) after Tampines Expressway.",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-09-04T07:04:05.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "04/09/2026 07:00-Bus services 3, 9, 12, 17, 19, 21, 29, 34, 37, 39, 53, 59, 81 and 518 are expected to be delayed due to road works along Loyang Avenue (towards Pasir Ris Drive 1) after Tampines Expressway.",
-      "CreatedDate": "2026-09-04 07:04:05"
-    },
-    "current": false,
-    "firstSeenAt": "2026-09-03T23:11:23.380Z",
-    "lastSeenAt": "2026-09-04T06:28:12.056Z"
-  },
-  {
     "id": "2fface34f4730753e5112c5e0c757ecf646f9b40",
     "status": 1,
     "incidentType": null,
@@ -438,6 +438,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-18T05:44:53.864Z"
+    "lastSeenAt": "2026-09-18T11:00:31.154Z"
   }
 ]
