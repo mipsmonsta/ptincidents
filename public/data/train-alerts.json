@@ -18,7 +18,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-09-18T15:06:26.511Z",
-    "lastSeenAt": "2026-09-18T21:34:07.430Z"
+    "lastSeenAt": "2026-09-19T00:06:01.436Z"
   },
   {
     "id": "1508c7d6750db2706a2b956f6ea7e2807841fc7c",
@@ -378,27 +378,6 @@
     "lastSeenAt": "2026-09-05T12:33:05.207Z"
   },
   {
-    "id": "2fface34f4730753e5112c5e0c757ecf646f9b40",
-    "status": 1,
-    "incidentType": null,
-    "message": "23:30-DTL-Planned Service Adjustments. From 10 Jul to 5 Sep 2026, Downtown Line services will end at 11.30pm on Friday nights and commence at 8.30am on Saturday mornings. Please use alternative MRT lines and bus services.",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-07-09T20:00:20.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "23:30-DTL-Planned Service Adjustments. From 10 Jul to 5 Sep 2026, Downtown Line services will end at 11.30pm on Friday nights and commence at 8.30am on Saturday mornings. Please use alternative MRT lines and bus services.",
-      "CreatedDate": "2026-07-09 20:00:20"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-04T23:53:33.497Z"
-  },
-  {
     "id": "5c4644341ce84a1b5daeb3650f1586d9446948cb",
     "status": 1,
     "incidentType": null,
@@ -417,6 +396,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-18T21:34:07.430Z"
+    "lastSeenAt": "2026-09-19T00:06:01.436Z"
   }
 ]
