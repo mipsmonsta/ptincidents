@@ -18,7 +18,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-09-23T04:26:20.424Z",
-    "lastSeenAt": "2026-09-23T04:26:20.424Z"
+    "lastSeenAt": "2026-09-23T09:29:10.677Z"
   },
   {
     "id": "c40611522332862c084ec93964d2b4e3ff9dfd8c",
@@ -81,7 +81,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-09-18T15:06:26.511Z",
-    "lastSeenAt": "2026-09-23T04:26:20.424Z"
+    "lastSeenAt": "2026-09-23T09:29:10.677Z"
   },
   {
     "id": "1508c7d6750db2706a2b956f6ea7e2807841fc7c",
@@ -315,27 +315,6 @@
     "lastSeenAt": "2026-09-10T14:20:05.018Z"
   },
   {
-    "id": "3b135bafdb117ecaf8b7dff7673e51fd75b49877",
-    "status": 1,
-    "incidentType": null,
-    "message": "09/09/2026 13:45-Bus services 56, 57, 131, 141, 166, 851 and 980 have been diverted due to vehicle breakdown along Thomson Road (towards Bukit Timah Road) after Newton Road.",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-09-09T14:04:12.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "09/09/2026 13:45-Bus services 56, 57, 131, 141, 166, 851 and 980 have been diverted due to vehicle breakdown along Thomson Road (towards Bukit Timah Road) after Newton Road.",
-      "CreatedDate": "2026-09-09 14:04:12"
-    },
-    "current": false,
-    "firstSeenAt": "2026-09-09T06:33:47.300Z",
-    "lastSeenAt": "2026-09-09T06:33:47.300Z"
-  },
-  {
     "id": "5dc0e6ab7166c983deca45f93d23186aa81b9a27",
     "status": 1,
     "incidentType": null,
@@ -375,6 +354,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-23T04:26:20.424Z"
+    "lastSeenAt": "2026-09-23T09:29:10.677Z"
   }
 ]
