@@ -1,5 +1,26 @@
 [
   {
+    "id": "1342f48f0a3455ec0f1ecc37364865dacebf2c6f",
+    "status": 1,
+    "incidentType": null,
+    "message": "24/09/2026 14:33-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-09-24T14:34:46.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "24/09/2026 14:33-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+      "CreatedDate": "2026-09-24 14:34:46"
+    },
+    "current": true,
+    "firstSeenAt": "2026-09-24T12:06:49.007Z",
+    "lastSeenAt": "2026-09-24T12:06:49.007Z"
+  },
+  {
     "id": "edccf5e59ff9071a2bb809b39dac580155ce2204",
     "status": 1,
     "incidentType": null,
@@ -81,7 +102,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-09-18T15:06:26.511Z",
-    "lastSeenAt": "2026-09-24T06:00:32.201Z"
+    "lastSeenAt": "2026-09-24T12:06:49.007Z"
   },
   {
     "id": "1508c7d6750db2706a2b956f6ea7e2807841fc7c",
@@ -273,27 +294,6 @@
     "lastSeenAt": "2026-09-11T12:08:47.991Z"
   },
   {
-    "id": "db3f0d0135e2371321274063b2ea7477c0600604",
-    "status": 1,
-    "incidentType": null,
-    "message": "10/09/2026 17:55-Bus services 3, 9, 12, 17, 19, 21, 34, 39, 44, 53, 53, 59, 81, 89e, 110, 518 and 858 are delayed by up to 23 minutes due to an accident along TPE (towards SLE) after Pasir Ris Drive 8.",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-09-10T17:56:29.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "10/09/2026 17:55-Bus services 3, 9, 12, 17, 19, 21, 34, 39, 44, 53, 53, 59, 81, 89e, 110, 518 and 858 are delayed by up to 23 minutes due to an accident along TPE (towards SLE) after Pasir Ris Drive 8.",
-      "CreatedDate": "2026-09-10 17:56:29"
-    },
-    "current": false,
-    "firstSeenAt": "2026-09-10T09:59:18.218Z",
-    "lastSeenAt": "2026-09-10T09:59:18.218Z"
-  },
-  {
     "id": "8257fa542fc8450dc09a2529ecdb5667bba57fc2",
     "status": 1,
     "incidentType": null,
@@ -333,6 +333,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-24T06:00:32.201Z"
+    "lastSeenAt": "2026-09-24T12:06:49.007Z"
   }
 ]
