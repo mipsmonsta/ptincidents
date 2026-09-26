@@ -1,5 +1,47 @@
 [
   {
+    "id": "23c1c859e24a2ea70a26502a63f6f2ff934106d2",
+    "status": 1,
+    "incidentType": null,
+    "message": "26/09/2026 19:10-Bus services 161 and 168 are delayed by up to 22 minutes due to an accident on SLE (towards CTE) after Mandai Avenue.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-09-26T19:15:37.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "26/09/2026 19:10-Bus services 161 and 168 are delayed by up to 22 minutes due to an accident on SLE (towards CTE) after Mandai Avenue.",
+      "CreatedDate": "2026-09-26 19:15:37"
+    },
+    "current": true,
+    "firstSeenAt": "2026-09-26T12:09:41.505Z",
+    "lastSeenAt": "2026-09-26T12:09:41.505Z"
+  },
+  {
+    "id": "5987305b1a5777bfad1aa7f23cd22727e597d82a",
+    "status": 1,
+    "incidentType": null,
+    "message": "26/09/2026 17:23-Bus services 157 and 165 are diverted due to an accident on Sime Underpass (towards Lornie Highway) after Lornie Road.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-09-26T18:31:50.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "26/09/2026 17:23-Bus services 157 and 165 are diverted due to an accident on Sime Underpass (towards Lornie Highway) after Lornie Road.",
+      "CreatedDate": "2026-09-26 18:31:50"
+    },
+    "current": true,
+    "firstSeenAt": "2026-09-26T12:09:41.505Z",
+    "lastSeenAt": "2026-09-26T12:09:41.505Z"
+  },
+  {
     "id": "09690a555f4646b6ce4ed20a7e1d20c2fd37aeb8",
     "status": 1,
     "incidentType": null,
@@ -18,7 +60,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-09-26T01:24:05.267Z",
-    "lastSeenAt": "2026-09-26T06:33:04.493Z"
+    "lastSeenAt": "2026-09-26T12:09:41.505Z"
   },
   {
     "id": "71e4c1645873e352770a652981a9b4c051fe899d",
@@ -144,7 +186,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-09-18T15:06:26.511Z",
-    "lastSeenAt": "2026-09-26T06:33:04.493Z"
+    "lastSeenAt": "2026-09-26T12:09:41.505Z"
   },
   {
     "id": "1508c7d6750db2706a2b956f6ea7e2807841fc7c",
@@ -312,6 +354,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-26T06:33:04.493Z"
+    "lastSeenAt": "2026-09-26T12:09:41.505Z"
   }
 ]
