@@ -16,7 +16,7 @@
       "Content": "26/09/2026 19:10-Bus services 161 and 168 are delayed by up to 22 minutes due to an accident on SLE (towards CTE) after Mandai Avenue.",
       "CreatedDate": "2026-09-26 19:15:37"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-09-26T12:09:41.505Z",
     "lastSeenAt": "2026-09-26T12:09:41.505Z"
   },
@@ -37,7 +37,7 @@
       "Content": "26/09/2026 17:23-Bus services 157 and 165 are diverted due to an accident on Sime Underpass (towards Lornie Highway) after Lornie Road.",
       "CreatedDate": "2026-09-26 18:31:50"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-09-26T12:09:41.505Z",
     "lastSeenAt": "2026-09-26T12:09:41.505Z"
   },
@@ -58,7 +58,7 @@
       "Content": "26/09/2026 08:20-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
       "CreatedDate": "2026-09-26 08:20:59"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-09-26T01:24:05.267Z",
     "lastSeenAt": "2026-09-26T12:09:41.505Z"
   },
@@ -186,7 +186,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-09-18T15:06:26.511Z",
-    "lastSeenAt": "2026-09-26T12:09:41.505Z"
+    "lastSeenAt": "2026-09-26T16:39:35.540Z"
   },
   {
     "id": "1508c7d6750db2706a2b956f6ea7e2807841fc7c",
@@ -354,6 +354,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-26T12:09:41.505Z"
+    "lastSeenAt": "2026-09-26T16:39:35.540Z"
   }
 ]
