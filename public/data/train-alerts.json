@@ -184,7 +184,7 @@
       "Content": "05:00-BP-Planned Service Adjustments. Bukit Panjang LRT will be closed on 20 Sep and 27 Sep 2026 (Sundays) to facilitate renewal works. Please use shuttle and regular bus services.",
       "CreatedDate": "2026-09-18 20:06:30"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-09-18T15:06:26.511Z",
     "lastSeenAt": "2026-09-27T17:55:06.723Z"
   },
@@ -354,6 +354,6 @@
     },
     "current": true,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-09-27T17:55:06.723Z"
+    "lastSeenAt": "2026-09-27T21:13:12.706Z"
   }
 ]
