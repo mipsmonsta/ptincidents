@@ -1,5 +1,26 @@
 [
   {
+    "id": "380c322fb6fdd3f26cd9505d2dd990a09fae10f4",
+    "status": 1,
+    "incidentType": null,
+    "message": "05:00-SK-Planned Service Adjustments. Sengkang West LRT Inner Loop service (i.e. direction of STC Sengkang towards SW1 Cheng Lim) will resume on 4 Oct 2026. Peak-hours shuttle bus services will end after 2 Oct 2026.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-10-02T16:30:12.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "05:00-SK-Planned Service Adjustments. Sengkang West LRT Inner Loop service (i.e. direction of STC Sengkang towards SW1 Cheng Lim) will resume on 4 Oct 2026. Peak-hours shuttle bus services will end after 2 Oct 2026.",
+      "CreatedDate": "2026-10-02 16:30:12"
+    },
+    "current": true,
+    "firstSeenAt": "2026-10-02T09:35:31.206Z",
+    "lastSeenAt": "2026-10-02T09:35:31.206Z"
+  },
+  {
     "id": "8a10f138fb69acf81cdce1b7c002f0e57bc2487a",
     "status": 1,
     "incidentType": null,
@@ -18,7 +39,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-10-02T02:30:48.828Z",
-    "lastSeenAt": "2026-10-02T02:30:48.828Z"
+    "lastSeenAt": "2026-10-02T09:35:31.206Z"
   },
   {
     "id": "50eaf9975ddbcc1285eaf1e95fe31e133f0bf049",
@@ -331,7 +352,7 @@
       "Content": "05:00-SK-Planned Service Adjustment. From 19 Apr to 18 Oct 2026, the Sengkang West LRT Inner Loop (i.e. direction of STC Sengkang towards SW1 Cheng Lim) will be closed. Commuters can continue to use the Sengkang West LRT Outer Loop (i.e. direction of STC Sengkang towards SW8 Renjong), peak-hours shuttle bus services, or regular bus services.",
       "CreatedDate": "2026-04-18 11:50:27"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-08-20T06:25:15.135Z",
     "lastSeenAt": "2026-10-02T02:30:48.828Z"
   }
