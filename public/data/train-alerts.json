@@ -1,5 +1,26 @@
 [
   {
+    "id": "de1ac38cf7190051142c4fb9b613ce0781b99448",
+    "status": 1,
+    "incidentType": null,
+    "message": "09/10/2026 09:00-Bus services 30, 49, 154 and 178 are delayed by up to 28 minutes due to an accident on AYE (towards Tuas) after Penjuru Road.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-10-09T09:00:53.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "09/10/2026 09:00-Bus services 30, 49, 154 and 178 are delayed by up to 28 minutes due to an accident on AYE (towards Tuas) after Penjuru Road.",
+      "CreatedDate": "2026-10-09 09:00:53"
+    },
+    "current": true,
+    "firstSeenAt": "2026-10-09T01:07:46.414Z",
+    "lastSeenAt": "2026-10-09T01:07:46.414Z"
+  },
+  {
     "id": "e05fa9e6d8ea92d5e3569d730c50eb7a64686663",
     "status": 1,
     "incidentType": null,
