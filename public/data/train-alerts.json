@@ -16,7 +16,7 @@
       "Content": "10/10/2026 20:20: F1 SGP - Last trains departing from City Hall Station will be extended from 12.30am to 12.45am. Timings for the last connecting bus services will remain unchanged.",
       "CreatedDate": "2026-10-10 20:50:37"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-10-10T12:57:52.202Z",
     "lastSeenAt": "2026-10-10T12:57:52.202Z"
   },
@@ -37,7 +37,7 @@
       "Content": "10/10/2026 08:30-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
       "CreatedDate": "2026-10-10 08:30:45"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-10-10T06:17:44.852Z",
     "lastSeenAt": "2026-10-10T12:57:52.202Z"
   },
