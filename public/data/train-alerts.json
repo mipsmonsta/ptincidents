@@ -315,27 +315,6 @@
     "lastSeenAt": "2026-09-28T11:38:11.044Z"
   },
   {
-    "id": "fbf8f47a0b7effe3a191000ee0e7ecb75d88ed66",
-    "status": 1,
-    "incidentType": null,
-    "message": "05:00-BP-Planned Service Adjustments. Bukit Panjang LRT will be closed on 20 Sep and 27 Sep 2026 (Sundays) to facilitate renewal works. Please use shuttle and regular bus services.",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-09-18T20:06:30.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "05:00-BP-Planned Service Adjustments. Bukit Panjang LRT will be closed on 20 Sep and 27 Sep 2026 (Sundays) to facilitate renewal works. Please use shuttle and regular bus services.",
-      "CreatedDate": "2026-09-18 20:06:30"
-    },
-    "current": false,
-    "firstSeenAt": "2026-09-18T15:06:26.511Z",
-    "lastSeenAt": "2026-09-27T17:55:06.723Z"
-  },
-  {
     "id": "5c4644341ce84a1b5daeb3650f1586d9446948cb",
     "status": 1,
     "incidentType": null,
