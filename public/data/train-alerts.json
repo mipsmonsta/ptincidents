@@ -1,5 +1,26 @@
 [
   {
+    "id": "2baf039a4bdedf060ce7ab8700a4aedea08cde24",
+    "status": 1,
+    "incidentType": null,
+    "message": "14/10/2026 08:23-Bus service 974 is delayed by up to 21 minutes due to an accident on PIE (towards Tuas) after Jalan Bahar.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-10-14T08:26:50.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "14/10/2026 08:23-Bus service 974 is delayed by up to 21 minutes due to an accident on PIE (towards Tuas) after Jalan Bahar.",
+      "CreatedDate": "2026-10-14 08:26:50"
+    },
+    "current": true,
+    "firstSeenAt": "2026-10-14T00:34:07.828Z",
+    "lastSeenAt": "2026-10-14T00:34:07.828Z"
+  },
+  {
     "id": "7d73465ff9e3d7ae69049ceeaa5286764fae690f",
     "status": 1,
     "incidentType": null,
