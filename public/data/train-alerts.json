@@ -1,5 +1,47 @@
 [
   {
+    "id": "911f16f3586ba2f2aaad806e54cc30513c768aff",
+    "status": 1,
+    "incidentType": null,
+    "message": "15/10/2026 10:45-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-10-15T10:45:43.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "15/10/2026 10:45-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+      "CreatedDate": "2026-10-15 10:45:43"
+    },
+    "current": true,
+    "firstSeenAt": "2026-10-15T04:15:55.723Z",
+    "lastSeenAt": "2026-10-15T04:15:55.723Z"
+  },
+  {
+    "id": "2326d06cad42c87e7f1ea1ac066b74ae538bd9db",
+    "status": 1,
+    "incidentType": null,
+    "message": "15/10/2026 08:28-Bus service 252 has been diverted due to an accident along International Road (towards Corporation Road), at junction with Kian Teck Road.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-10-15T08:35:13.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "15/10/2026 08:28-Bus service 252 has been diverted due to an accident along International Road (towards Corporation Road), at junction with Kian Teck Road.",
+      "CreatedDate": "2026-10-15 08:35:13"
+    },
+    "current": true,
+    "firstSeenAt": "2026-10-15T04:15:55.723Z",
+    "lastSeenAt": "2026-10-15T04:15:55.723Z"
+  },
+  {
     "id": "a07638d26c58b4d9d76874ffb54141b15631478d",
     "status": 1,
     "incidentType": null,
