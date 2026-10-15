@@ -18,7 +18,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-10-15T04:15:55.723Z",
-    "lastSeenAt": "2026-10-15T04:15:55.723Z"
+    "lastSeenAt": "2026-10-15T09:19:49.046Z"
   },
   {
     "id": "2326d06cad42c87e7f1ea1ac066b74ae538bd9db",
@@ -37,7 +37,7 @@
       "Content": "15/10/2026 08:28-Bus service 252 has been diverted due to an accident along International Road (towards Corporation Road), at junction with Kian Teck Road.",
       "CreatedDate": "2026-10-15 08:35:13"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-10-15T04:15:55.723Z",
     "lastSeenAt": "2026-10-15T04:15:55.723Z"
   },
