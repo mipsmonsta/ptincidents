@@ -1,5 +1,26 @@
 [
   {
+    "id": "6c90e6b4b74e341b44269f5468396559b9b83358",
+    "status": 1,
+    "incidentType": null,
+    "message": "16/10/2026 10:06-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-10-16T10:08:27.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "16/10/2026 10:06-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+      "CreatedDate": "2026-10-16 10:08:27"
+    },
+    "current": true,
+    "firstSeenAt": "2026-10-16T05:42:32.443Z",
+    "lastSeenAt": "2026-10-16T05:42:32.443Z"
+  },
+  {
     "id": "911f16f3586ba2f2aaad806e54cc30513c768aff",
     "status": 1,
     "incidentType": null,
@@ -355,26 +376,5 @@
     "current": false,
     "firstSeenAt": "2026-10-02T02:30:48.828Z",
     "lastSeenAt": "2026-10-02T16:11:35.058Z"
-  },
-  {
-    "id": "5c4644341ce84a1b5daeb3650f1586d9446948cb",
-    "status": 1,
-    "incidentType": null,
-    "message": "05:00-SK-Planned Service Adjustment. From 19 Apr to 18 Oct 2026, the Sengkang West LRT Inner Loop (i.e. direction of STC Sengkang towards SW1 Cheng Lim) will be closed. Commuters can continue to use the Sengkang West LRT Outer Loop (i.e. direction of STC Sengkang towards SW8 Renjong), peak-hours shuttle bus services, or regular bus services.",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-04-18T11:50:27.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "05:00-SK-Planned Service Adjustment. From 19 Apr to 18 Oct 2026, the Sengkang West LRT Inner Loop (i.e. direction of STC Sengkang towards SW1 Cheng Lim) will be closed. Commuters can continue to use the Sengkang West LRT Outer Loop (i.e. direction of STC Sengkang towards SW8 Renjong), peak-hours shuttle bus services, or regular bus services.",
-      "CreatedDate": "2026-04-18 11:50:27"
-    },
-    "current": false,
-    "firstSeenAt": "2026-08-20T06:25:15.135Z",
-    "lastSeenAt": "2026-10-02T02:30:48.828Z"
   }
 ]
