@@ -1,5 +1,26 @@
 [
   {
+    "id": "7a2a153e114293e97cb834891bbfc0de21a31d5a",
+    "status": 1,
+    "incidentType": null,
+    "message": "19/10/2026 19:00-Bus services 161, 168, 648 and 665 are delayed by up to 30 minutes due to accident on SLE (towards BKE) after Mandai Road.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-10-19T19:06:27.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "19/10/2026 19:00-Bus services 161, 168, 648 and 665 are delayed by up to 30 minutes due to accident on SLE (towards BKE) after Mandai Road.",
+      "CreatedDate": "2026-10-19 19:06:27"
+    },
+    "current": true,
+    "firstSeenAt": "2026-10-19T11:08:31.136Z",
+    "lastSeenAt": "2026-10-19T11:08:31.136Z"
+  },
+  {
     "id": "b19dfe6bd307779e366f46b0035c0c8c4f319102",
     "status": 1,
     "incidentType": null,
@@ -18,7 +39,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-10-19T05:09:58.635Z",
-    "lastSeenAt": "2026-10-19T05:09:58.635Z"
+    "lastSeenAt": "2026-10-19T11:08:31.136Z"
   },
   {
     "id": "6d99538cc67b338b1cace54b828df122b2764a83",
@@ -334,26 +355,5 @@
     "current": false,
     "firstSeenAt": "2026-10-06T02:28:01.775Z",
     "lastSeenAt": "2026-10-06T09:20:12.115Z"
-  },
-  {
-    "id": "1e6d35cfdbda51f28b04f9426f7387170d998208",
-    "status": 1,
-    "incidentType": null,
-    "message": "05/10/2026 09:42-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-10-05T09:43:39.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "05/10/2026 09:42-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
-      "CreatedDate": "2026-10-05 09:43:39"
-    },
-    "current": false,
-    "firstSeenAt": "2026-10-05T06:47:18.983Z",
-    "lastSeenAt": "2026-10-05T06:47:18.983Z"
   }
 ]
