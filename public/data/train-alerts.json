@@ -1,5 +1,26 @@
 [
   {
+    "id": "dcf9b3108bc99879316aed498aae436c16ae42bc",
+    "status": 1,
+    "incidentType": null,
+    "message": "22/10/2026 14:50-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-10-22T14:51:34.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "22/10/2026 14:50-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+      "CreatedDate": "2026-10-22 14:51:34"
+    },
+    "current": true,
+    "firstSeenAt": "2026-10-22T12:53:44.865Z",
+    "lastSeenAt": "2026-10-22T12:53:44.865Z"
+  },
+  {
     "id": "e60fdf1ae45ecb1ad6e19e42df2da6dc2894f41c",
     "status": 1,
     "incidentType": null,
