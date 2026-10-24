@@ -313,47 +313,5 @@
     "current": false,
     "firstSeenAt": "2026-10-12T08:59:56.179Z",
     "lastSeenAt": "2026-10-12T08:59:56.179Z"
-  },
-  {
-    "id": "82256d89d0e736059e132a97bd99f64c1a755de2",
-    "status": 1,
-    "incidentType": null,
-    "message": "10/10/2026 20:20: F1 SGP - Last trains departing from City Hall Station will be extended from 12.30am to 12.45am. Timings for the last connecting bus services will remain unchanged.",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-10-10T20:50:37.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "10/10/2026 20:20: F1 SGP - Last trains departing from City Hall Station will be extended from 12.30am to 12.45am. Timings for the last connecting bus services will remain unchanged.",
-      "CreatedDate": "2026-10-10 20:50:37"
-    },
-    "current": false,
-    "firstSeenAt": "2026-10-10T12:57:52.202Z",
-    "lastSeenAt": "2026-10-10T12:57:52.202Z"
-  },
-  {
-    "id": "fd792d51e7017ada5ef1f76fd9867fc5c8b775f8",
-    "status": 1,
-    "incidentType": null,
-    "message": "10/10/2026 08:30-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-10-10T08:30:45.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "10/10/2026 08:30-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
-      "CreatedDate": "2026-10-10 08:30:45"
-    },
-    "current": false,
-    "firstSeenAt": "2026-10-10T06:17:44.852Z",
-    "lastSeenAt": "2026-10-10T12:57:52.202Z"
   }
 ]
