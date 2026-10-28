@@ -1,5 +1,26 @@
 [
   {
+    "id": "4808fadaaf7ce4e0472f81b509c542e70d900c41",
+    "status": 1,
+    "incidentType": null,
+    "message": "28/10/2026 07:45-Bus service 169 is diverted due to a vehicle breakdown along Woodlands Avenue 8 after the bus stop (BS 46711) before Woodlands Industrial Park E3.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-10-28T07:46:06.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "28/10/2026 07:45-Bus service 169 is diverted due to a vehicle breakdown along Woodlands Avenue 8 after the bus stop (BS 46711) before Woodlands Industrial Park E3.",
+      "CreatedDate": "2026-10-28 07:46:06"
+    },
+    "current": true,
+    "firstSeenAt": "2026-10-28T00:23:15.325Z",
+    "lastSeenAt": "2026-10-28T00:23:15.325Z"
+  },
+  {
     "id": "f6faec58853e669a3b0e71d19620120dbd9cd904",
     "status": 1,
     "incidentType": null,
