@@ -18,7 +18,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-10-29T02:45:09.011Z",
-    "lastSeenAt": "2026-10-29T02:45:09.011Z"
+    "lastSeenAt": "2026-10-29T09:43:56.532Z"
   },
   {
     "id": "4801b40a2cf6138105a88b34d8a48df30f6606cc",
@@ -334,26 +334,5 @@
     "current": false,
     "firstSeenAt": "2026-10-15T04:15:55.723Z",
     "lastSeenAt": "2026-10-15T14:21:27.902Z"
-  },
-  {
-    "id": "2326d06cad42c87e7f1ea1ac066b74ae538bd9db",
-    "status": 1,
-    "incidentType": null,
-    "message": "15/10/2026 08:28-Bus service 252 has been diverted due to an accident along International Road (towards Corporation Road), at junction with Kian Teck Road.",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-10-15T08:35:13.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "15/10/2026 08:28-Bus service 252 has been diverted due to an accident along International Road (towards Corporation Road), at junction with Kian Teck Road.",
-      "CreatedDate": "2026-10-15 08:35:13"
-    },
-    "current": false,
-    "firstSeenAt": "2026-10-15T04:15:55.723Z",
-    "lastSeenAt": "2026-10-15T04:15:55.723Z"
   }
 ]
