@@ -1,5 +1,26 @@
 [
   {
+    "id": "69d8349cda2f462ea50dccd2a48985712597df34",
+    "status": 1,
+    "incidentType": null,
+    "message": "1/11/2026 7:09 - Bus services 24, 27, 34, 36, 53,110 and 858 have been diverted due to vehicle breakdown before Changi Airport Terminal 1, before the bus stop (BS 95029) along T1 basement drive.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-11-01T07:10:02.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "1/11/2026 7:09 - Bus services 24, 27, 34, 36, 53,110 and 858 have been diverted due to vehicle breakdown before Changi Airport Terminal 1, before the bus stop (BS 95029) along T1 basement drive.",
+      "CreatedDate": "2026-11-01 07:10:02"
+    },
+    "current": true,
+    "firstSeenAt": "2026-10-31T23:36:55.271Z",
+    "lastSeenAt": "2026-10-31T23:36:55.271Z"
+  },
+  {
     "id": "df684635f3bc324aac9de70691f8b1e53a7086f3",
     "status": 1,
     "incidentType": null,
