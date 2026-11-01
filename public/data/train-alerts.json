@@ -16,7 +16,7 @@
       "Content": "1/11/2026 7:09 - Bus services 24, 27, 34, 36, 53,110 and 858 have been diverted due to vehicle breakdown before Changi Airport Terminal 1, before the bus stop (BS 95029) along T1 basement drive.",
       "CreatedDate": "2026-11-01 07:10:02"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-10-31T23:36:55.271Z",
     "lastSeenAt": "2026-10-31T23:36:55.271Z"
   },
