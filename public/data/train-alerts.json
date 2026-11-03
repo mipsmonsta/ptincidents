@@ -1,5 +1,26 @@
 [
   {
+    "id": "9a6a3157957b9aefb493ffc9b92a6dbbac4e21b0",
+    "status": 1,
+    "incidentType": null,
+    "message": "03/11/2026 11:52-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Avenue 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-11-03T11:55:23.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "03/11/2026 11:52-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Avenue 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+      "CreatedDate": "2026-11-03 11:55:23"
+    },
+    "current": true,
+    "firstSeenAt": "2026-11-03T09:57:03.017Z",
+    "lastSeenAt": "2026-11-03T09:57:03.017Z"
+  },
+  {
     "id": "379fb43d3a1f3ae7cafff75c977749f319a3d7a2",
     "status": 1,
     "incidentType": null,
@@ -16,7 +37,7 @@
       "Content": "03/11/2026 09:20-Bus services 161 and 168 are diverted due to an accident on SLE (towards CTE) after Woodlands Avenue 2.",
       "CreatedDate": "2026-11-03 09:31:44"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-11-03T02:09:37.712Z",
     "lastSeenAt": "2026-11-03T02:09:37.712Z"
   },
@@ -37,7 +58,7 @@
       "Content": "03/11/2026 08:50-Bus services 161 and 168 are delayed by up to 30 minutes due to an accident on SLE (towards BKE) after Upper Thomson Road.",
       "CreatedDate": "2026-11-03 08:53:49"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-11-03T02:09:37.712Z",
     "lastSeenAt": "2026-11-03T02:09:37.712Z"
   },
