@@ -1,5 +1,47 @@
 [
   {
+    "id": "379fb43d3a1f3ae7cafff75c977749f319a3d7a2",
+    "status": 1,
+    "incidentType": null,
+    "message": "03/11/2026 09:20-Bus services 161 and 168 are diverted due to an accident on SLE (towards CTE) after Woodlands Avenue 2.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-11-03T09:31:44.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "03/11/2026 09:20-Bus services 161 and 168 are diverted due to an accident on SLE (towards CTE) after Woodlands Avenue 2.",
+      "CreatedDate": "2026-11-03 09:31:44"
+    },
+    "current": true,
+    "firstSeenAt": "2026-11-03T02:09:37.712Z",
+    "lastSeenAt": "2026-11-03T02:09:37.712Z"
+  },
+  {
+    "id": "47d1c36ebce83a09e7b5fc984f91a7d222d8502b",
+    "status": 1,
+    "incidentType": null,
+    "message": "03/11/2026 08:50-Bus services 161 and 168 are delayed by up to 30 minutes due to an accident on SLE (towards BKE) after Upper Thomson Road.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-11-03T08:53:49.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "03/11/2026 08:50-Bus services 161 and 168 are delayed by up to 30 minutes due to an accident on SLE (towards BKE) after Upper Thomson Road.",
+      "CreatedDate": "2026-11-03 08:53:49"
+    },
+    "current": true,
+    "firstSeenAt": "2026-11-03T02:09:37.712Z",
+    "lastSeenAt": "2026-11-03T02:09:37.712Z"
+  },
+  {
     "id": "dc2ba7270c7afd20e4772247c9c6c3bd54cf3cb5",
     "status": 1,
     "incidentType": null,
