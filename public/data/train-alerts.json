@@ -16,7 +16,7 @@
       "Content": "11/11/2026 14:30-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Avenue 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
       "CreatedDate": "2026-11-11 14:31:46"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-11-11T07:40:09.463Z",
     "lastSeenAt": "2026-11-11T07:40:09.463Z"
   },
@@ -37,7 +37,7 @@
       "Content": "11/11/2026 14:20-Bus services 10, 12, 14, 16, 16M, 32, 40 and 47 are delayed by up to 20 minutes due to road works at the junction of East Coast Road with Joo Chiat Road.",
       "CreatedDate": "2026-11-11 14:25:41"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-11-11T07:40:09.463Z",
     "lastSeenAt": "2026-11-11T07:40:09.463Z"
   },
@@ -292,26 +292,5 @@
     "current": false,
     "firstSeenAt": "2026-10-29T02:45:09.011Z",
     "lastSeenAt": "2026-10-29T09:43:56.532Z"
-  },
-  {
-    "id": "4801b40a2cf6138105a88b34d8a48df30f6606cc",
-    "status": 1,
-    "incidentType": null,
-    "message": "28/10/2026 09:46-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-10-28T09:48:27.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "28/10/2026 09:46-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
-      "CreatedDate": "2026-10-28 09:48:27"
-    },
-    "current": false,
-    "firstSeenAt": "2026-10-28T06:09:54.537Z",
-    "lastSeenAt": "2026-10-28T13:26:43.697Z"
   }
 ]
