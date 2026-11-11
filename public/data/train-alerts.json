@@ -1,5 +1,47 @@
 [
   {
+    "id": "7664e955040adbb649c6c27904f9c95f4826d0af",
+    "status": 1,
+    "incidentType": null,
+    "message": "11/11/2026 14:30-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Avenue 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-11-11T14:31:46.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "11/11/2026 14:30-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Avenue 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+      "CreatedDate": "2026-11-11 14:31:46"
+    },
+    "current": true,
+    "firstSeenAt": "2026-11-11T07:40:09.463Z",
+    "lastSeenAt": "2026-11-11T07:40:09.463Z"
+  },
+  {
+    "id": "67320886cce76d298de142268003b28c4125767c",
+    "status": 1,
+    "incidentType": null,
+    "message": "11/11/2026 14:20-Bus services 10, 12, 14, 16, 16M, 32, 40 and 47 are delayed by up to 20 minutes due to road works at the junction of East Coast Road with Joo Chiat Road.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-11-11T14:25:41.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "11/11/2026 14:20-Bus services 10, 12, 14, 16, 16M, 32, 40 and 47 are delayed by up to 20 minutes due to road works at the junction of East Coast Road with Joo Chiat Road.",
+      "CreatedDate": "2026-11-11 14:25:41"
+    },
+    "current": true,
+    "firstSeenAt": "2026-11-11T07:40:09.463Z",
+    "lastSeenAt": "2026-11-11T07:40:09.463Z"
+  },
+  {
     "id": "920a8541d6e472fb00e9ed60974d13ead173ff06",
     "status": 1,
     "incidentType": null,
