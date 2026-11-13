@@ -1,5 +1,26 @@
 [
   {
+    "id": "deafb9b79e5b83ae1c3f0665907616e45585fe99",
+    "status": 1,
+    "incidentType": null,
+    "message": "13/11/2026 10:06-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Avenue 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-11-13T10:09:17.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "13/11/2026 10:06-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Avenue 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+      "CreatedDate": "2026-11-13 10:09:17"
+    },
+    "current": true,
+    "firstSeenAt": "2026-11-13T08:40:30.089Z",
+    "lastSeenAt": "2026-11-13T08:40:30.089Z"
+  },
+  {
     "id": "e6f443368a0b15fb022af882598f99249050bdae",
     "status": 1,
     "incidentType": null,
@@ -271,26 +292,5 @@
     "current": false,
     "firstSeenAt": "2026-10-31T05:25:39.916Z",
     "lastSeenAt": "2026-10-31T11:08:07.459Z"
-  },
-  {
-    "id": "203f800c09e47ef8de9584eb903d907b0e931905",
-    "status": 1,
-    "incidentType": null,
-    "message": "30/10/2026 10:30-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Avenue 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-10-30T10:31:01.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "30/10/2026 10:30-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Avenue 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
-      "CreatedDate": "2026-10-30 10:31:01"
-    },
-    "current": false,
-    "firstSeenAt": "2026-10-30T08:26:39.850Z",
-    "lastSeenAt": "2026-10-30T08:26:39.850Z"
   }
 ]
