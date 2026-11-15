@@ -16,7 +16,7 @@
       "Content": "15/11/2026 08:08-(Update) Bus service 252 has been diverted due to an accident along International Road (towards Fifth Lok Yang Road) after Sixth Lok Yang Road.",
       "CreatedDate": "2026-11-15 09:00:03"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-11-15T01:14:38.785Z",
     "lastSeenAt": "2026-11-15T01:14:38.785Z"
   },
