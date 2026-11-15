@@ -1,5 +1,26 @@
 [
   {
+    "id": "eaeed23c657f6f34b557b64f565bbaa9b068bfdd",
+    "status": 1,
+    "incidentType": null,
+    "message": "15/11/2026 08:08-(Update) Bus service 252 has been diverted due to an accident along International Road (towards Fifth Lok Yang Road) after Sixth Lok Yang Road.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-11-15T09:00:03.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "15/11/2026 08:08-(Update) Bus service 252 has been diverted due to an accident along International Road (towards Fifth Lok Yang Road) after Sixth Lok Yang Road.",
+      "CreatedDate": "2026-11-15 09:00:03"
+    },
+    "current": true,
+    "firstSeenAt": "2026-11-15T01:14:38.785Z",
+    "lastSeenAt": "2026-11-15T01:14:38.785Z"
+  },
+  {
     "id": "495e3386e10343abc88fbda02678327699efdbd0",
     "status": 1,
     "incidentType": null,
@@ -271,26 +292,5 @@
     "current": false,
     "firstSeenAt": "2026-11-02T09:15:34.613Z",
     "lastSeenAt": "2026-11-02T09:15:34.613Z"
-  },
-  {
-    "id": "69d8349cda2f462ea50dccd2a48985712597df34",
-    "status": 1,
-    "incidentType": null,
-    "message": "1/11/2026 7:09 - Bus services 24, 27, 34, 36, 53,110 and 858 have been diverted due to vehicle breakdown before Changi Airport Terminal 1, before the bus stop (BS 95029) along T1 basement drive.",
-    "affectedLines": [],
-    "affectedStations": [],
-    "startTime": null,
-    "endTime": null,
-    "createdDate": "2026-11-01T07:10:02.000Z",
-    "lastUpdatedDate": null,
-    "affectedSegments": [],
-    "source": "TrainServiceAlerts",
-    "raw": {
-      "Content": "1/11/2026 7:09 - Bus services 24, 27, 34, 36, 53,110 and 858 have been diverted due to vehicle breakdown before Changi Airport Terminal 1, before the bus stop (BS 95029) along T1 basement drive.",
-      "CreatedDate": "2026-11-01 07:10:02"
-    },
-    "current": false,
-    "firstSeenAt": "2026-10-31T23:36:55.271Z",
-    "lastSeenAt": "2026-10-31T23:36:55.271Z"
   }
 ]
