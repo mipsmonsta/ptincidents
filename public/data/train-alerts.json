@@ -1,5 +1,47 @@
 [
   {
+    "id": "54b0fd611a57691d487806630f041e2cc4be8518",
+    "status": 1,
+    "incidentType": null,
+    "message": "21/11/2026 14:21-Bus service 123 is diverted due to a vehicle breakdown along Sentosa Gateway after bus stop (BS 14519) outside Resorts World Sentosa.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-11-21T14:30:58.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "21/11/2026 14:21-Bus service 123 is diverted due to a vehicle breakdown along Sentosa Gateway after bus stop (BS 14519) outside Resorts World Sentosa.",
+      "CreatedDate": "2026-11-21 14:30:58"
+    },
+    "current": true,
+    "firstSeenAt": "2026-11-21T06:54:27.310Z",
+    "lastSeenAt": "2026-11-21T06:54:27.310Z"
+  },
+  {
+    "id": "4a8c295e6827bc61c10f02a46f49289a8a103514",
+    "status": 1,
+    "incidentType": null,
+    "message": "21/11/2026 08:33-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Avenue 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-11-21T08:33:30.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "21/11/2026 08:33-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Avenue 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+      "CreatedDate": "2026-11-21 08:33:30"
+    },
+    "current": true,
+    "firstSeenAt": "2026-11-21T06:54:27.310Z",
+    "lastSeenAt": "2026-11-21T06:54:27.310Z"
+  },
+  {
     "id": "5a1426fb3524551eb8cfafce1043bd9f955188c1",
     "status": 1,
     "incidentType": null,
