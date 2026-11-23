@@ -1,5 +1,26 @@
 [
   {
+    "id": "a1c3627ed9b2e275b34fbf44330672451889a9d8",
+    "status": 1,
+    "incidentType": null,
+    "message": "23/11/2026 20:39-Bus service 258 is diverted due to an accident along AYE (towards Tuas) at Benoi Road Exit.",
+    "affectedLines": [],
+    "affectedStations": [],
+    "startTime": null,
+    "endTime": null,
+    "createdDate": "2026-11-23T20:59:54.000Z",
+    "lastUpdatedDate": null,
+    "affectedSegments": [],
+    "source": "TrainServiceAlerts",
+    "raw": {
+      "Content": "23/11/2026 20:39-Bus service 258 is diverted due to an accident along AYE (towards Tuas) at Benoi Road Exit.",
+      "CreatedDate": "2026-11-23 20:59:54"
+    },
+    "current": true,
+    "firstSeenAt": "2026-11-23T14:24:36.516Z",
+    "lastSeenAt": "2026-11-23T14:24:36.516Z"
+  },
+  {
     "id": "37ee4eea5e3f8cad830ac7710f91c971ce1fba04",
     "status": 1,
     "incidentType": null,
@@ -18,7 +39,7 @@
     },
     "current": true,
     "firstSeenAt": "2026-11-23T03:58:06.249Z",
-    "lastSeenAt": "2026-11-23T03:58:06.249Z"
+    "lastSeenAt": "2026-11-23T14:24:36.516Z"
   },
   {
     "id": "54b0fd611a57691d487806630f041e2cc4be8518",
