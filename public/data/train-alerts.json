@@ -16,7 +16,7 @@
       "Content": "23/11/2026 20:39-Bus service 258 is diverted due to an accident along AYE (towards Tuas) at Benoi Road Exit.",
       "CreatedDate": "2026-11-23 20:59:54"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-11-23T14:24:36.516Z",
     "lastSeenAt": "2026-11-23T14:24:36.516Z"
   },
@@ -37,7 +37,7 @@
       "Content": "23/11/2026 10:32-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Avenue 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
       "CreatedDate": "2026-11-23 10:32:46"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-11-23T03:58:06.249Z",
     "lastSeenAt": "2026-11-23T14:24:36.516Z"
   },
