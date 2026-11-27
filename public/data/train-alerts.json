@@ -16,7 +16,7 @@
       "Content": "27/11/2026 18:56-Bus services 30, 49, 154 and 178 have been diverted due to an accident along AYE (towards Tuas) at Jurong Port Road Exit.",
       "CreatedDate": "2026-11-27 19:06:40"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-11-27T11:18:38.140Z",
     "lastSeenAt": "2026-11-27T11:18:38.140Z"
   },
@@ -37,7 +37,7 @@
       "Content": "27/11/2026 12:23-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Avenue 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
       "CreatedDate": "2026-11-27 12:24:54"
     },
-    "current": true,
+    "current": false,
     "firstSeenAt": "2026-11-27T11:18:38.140Z",
     "lastSeenAt": "2026-11-27T11:18:38.140Z"
   },
